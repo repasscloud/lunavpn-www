@@ -17,3 +17,12 @@ jobs:
       run: |
         chmod +x build.sh
         ./build.sh
+
+    - name: Create ZIP archive
+      run: zip -r app.zip /app
+
+    - name: Upload ZIP archive
+      uses: actions/upload-artifact@v2
+      with:
+        name: app-artifact
+        path: app.zip
