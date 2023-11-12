@@ -19,7 +19,7 @@ jobs:
         ./build.sh
 
     - name: Create ZIP archive
-      run: zip -r app.zip /app
+      run: zip -r app.zip app
 
     - name: Upload ZIP archive
       uses: actions/upload-artifact@v2
