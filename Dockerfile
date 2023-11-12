@@ -14,10 +14,14 @@ RUN apt-get update && apt-get -y upgrade && apt-get install -y \
 # Update NPM
 RUN npm install -g npm
 
-# Install Hugo (extended)
-COPY hugo /usr/local/bin/hugo
+# Download and install Hugo (extended)
+RUN curl -L -o hugo.tar.gz "https://github.com/gohugoio/hugo/releases/download/v0.120.4/hugo_extended_0.120.4_linux-amd64.tar.gz" \
+    && tar -zxvf hugo.tar.gz \
+    && mv hugo /usr/local/bin/hugo \
+    && rm hugo.tar.gz
 
-# Install Go
-COPY go.tar.gz .
-RUN tar -C /usr/local -xzf go.tar.gz \
-    && rm -rf go.tar.gz
+# Download and install Go
+RUN curl -L -o go.tar.gz "https://go.dev/dl/go1.21.4.linux-amd64.tar.gz" \
+    && tar -zxvf go.tar.gz \
+    && mv go /usr/local/bin/go \
+    && rm go.tar.gz
