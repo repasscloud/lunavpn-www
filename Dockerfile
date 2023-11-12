@@ -26,14 +26,6 @@ RUN curl -L -o go.tar.gz "https://go.dev/dl/go1.21.4.linux-amd64.tar.gz" \
     && mv go /usr/local/bin/go \
     && rm go.tar.gz
 
-# Download Hugoplate
-RUN curl -L -o main.zip https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip \
-    && unzip main.zip \
-    && rm main.zip \
-    && mv hugoplate-main/* .
-
-
-
 # Update NPM, project setup and dependencies installation
 RUN npm install -g npm \
     && npm run project-setup \

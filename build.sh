@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-latest_version=$(curl -s "https://api.github.com/repos/gohugoio/hugo/tags" | jq -r '.[0].name')
-latest_version_no_v=${latest_version#v}
+# Download Hugoplate
+curl -L -o main.zip https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip \
+    && unzip main.zip \
+    && rm main.zip \
+    && mv hugoplate-main/* .
 
-docker build --rm --no-cache -t myhugo .
 
-#docker run -it --rm myhugo sh
+#docker build --rm --no-cache -t myhugo .
 
-
-# npm run dev
