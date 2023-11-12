@@ -21,7 +21,7 @@ RUN curl -L -o hugo.tar.gz "https://github.com/gohugoio/hugo/releases/download/v
     && rm hugo.tar.gz
 
 # Download and install Go
-RUN curl -L -o go.tar.gz "https://go.dev/dl/go1.21.4.linux-arm64.tar.gz" \
+RUN curl -L -o go.tar.gz "https://go.dev/dl/go1.21.4.linux-amd64.tar.gz" \
     && tar -zxvf go.tar.gz \
     && mv go /usr/local/bin/go \
     && rm go.tar.gz
