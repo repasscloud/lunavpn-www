@@ -6,6 +6,7 @@ WORKDIR /app
 
 # Install required packages and cleanup
 RUN apt-get update && apt-get -y upgrade && apt-get install -y \
+    curl \
     git \
     npm \
     && apt-get clean \
