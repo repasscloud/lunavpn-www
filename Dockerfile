@@ -26,12 +26,5 @@ RUN curl -L -o go.tar.gz "https://go.dev/dl/go1.21.4.linux-amd64.tar.gz" \
     && mv go /usr/local/bin/go \
     && rm go.tar.gz
 
-# Update NPM, project setup and dependencies installation
-RUN npm install -g npm \
-    && npm run project-setup \
-    && npm install
-
-# Update timezone
-RUN sed -i 's/timeZone = "America\/New_York"/timeZone = "UTC"/' hugo.toml
-
-RUN npm run build
+# Update NPM
+RUN npm install -g npm
