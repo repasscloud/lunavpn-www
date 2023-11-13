@@ -5,7 +5,9 @@ FROM node:slim
 WORKDIR /app
 
 # Install required packages and cleanup
-RUN apt-get update && apt-get -y upgrade && apt-get install -y \
+RUN /bin/sh -c set -eux; apt-get update \
+    && apt-get -y upgrade \
+    && apt-get install -y no-install-recommends \
     curl \
     git \
     npm \
