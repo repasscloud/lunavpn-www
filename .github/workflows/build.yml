@@ -22,7 +22,7 @@ jobs:
       run: zip -r app.zip app
 
     - name: Upload ZIP archive
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: app-artifact
         path: app.zip
