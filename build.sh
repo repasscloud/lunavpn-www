@@ -12,5 +12,5 @@ curl -L -o main.zip https://github.com/zeon-studio/hugoplate/archive/refs/heads/
 docker build --rm --no-cache -t myhugo .
 
 # Run Docker container, mounting the local ./app directory to /app
-docker run -v "$(pwd)/app:/app" myhugo /usr/bin/bash -c \
+docker run -v "$(pwd)/app:/app" myhugo /bin/bash -c \
   "npm run project-setup && npm install && sed -i 's/timeZone = \"America\/New_York\"/timeZone = \"UTC\"/' hugo.toml && npm run build"
