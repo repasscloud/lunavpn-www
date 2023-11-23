@@ -1,0 +1,13 @@
+stages:
+  - test
+  - build
+
+include:
+  - template: Security/SAST.gitlab-ci.yml
+
+build:
+  stage: build
+  script:
+    - chmod +x build.sh  # Ensure the script is executable
+    - ./build.sh
+
