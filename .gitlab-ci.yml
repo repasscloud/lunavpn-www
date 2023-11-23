@@ -5,6 +5,10 @@ stages:
 include:
   - template: Security/SAST.gitlab-ci.yml
 
+before_script:
+  - apt-get update -qy
+  - apt-get install -y docker.io
+
 build:
   stage: build
   script:
