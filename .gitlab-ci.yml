@@ -3,9 +3,15 @@ image: ubuntu
 before_script:
   - apt -qy update
   - apt -y install nodejs curl git npm golang-go
+  - curl -L -o hugo.tar.gz "https://github.com/gohugoio/hugo/releases/download/v0.120.4/hugo_extended_0.120.4_linux-amd64.tar.gz" && tar -zxvf hugo.tar.gz && mv hugo /usr/local/bin/hugo && rm hugo.tar.gz
+  - 
+stages:
+  - build
 
-
-
+build:
+  stage: build
+  script:
+    - npm run project-setup && npm install
 # # Use the Ubuntu base image
 # FROM node:slim
 # # Set the working directory
