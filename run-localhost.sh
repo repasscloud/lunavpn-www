@@ -10,3 +10,4 @@ fi
 
 # Run Nginx container
 docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
+echo "Runs on http://localhost:80/"
