@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# Take ownership of directory
+echo -e "TeddyBear101" | sudo -S chown -R $(id -u):$(id -g) $SCRIPT_DIR
+echo -e "TeddyBear101" | sudo -S chmod -R 755 $SCRIPT_DIR
+
+# clear app directory
+echo -e "TeddyBear101" | sudo rm -rf $SCRIPT_DIR/app
+echo -e "TeddyBear101" | sudo rm -rf $SCRIPT_DIR/hugoplate-main
+
 # Download Hugoplate
 mkdir app
 curl -L -o main.zip https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip \
