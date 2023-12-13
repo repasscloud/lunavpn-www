@@ -331,6 +331,11 @@
       "zoomable"
     ],
     "ids": [
+      "1-speed-and-efficiency",
+      "2-robust-security",
+      "3-minimalistic-design",
+      "4-cross-platform-compatibility",
+      "5-dynamic-tunneling",
       "TableOfContents",
       "accordions",
       "blockquote",
@@ -369,9 +374,11 @@
       "slider",
       "tab",
       "tables",
+      "the-wireguard-revolution",
       "theme-switcher",
       "unordered-list",
       "we-know-youre-dealing-in-stolen-ore",
+      "wireguard-vs-openvpn",
       "youtube-video"
     ]
   }
