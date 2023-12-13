@@ -5,6 +5,9 @@ if docker ps -a --format '{{.Names}}' | grep -q '^nginx$'; then
     docker stop nginx
 fi
 
+# Remove published folder
+rm -rf ./app/public 
+
 # Run your build script
 ./npm-build.sh
 
