@@ -1,10 +1,8 @@
 ---
 title: "Privacy Policy"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+meta_title: "LunaVPN Privacy Policy"
+meta description: "Explore our comprehensive privacy policy to understand how we protect your personal information and ensure your online privacy. Learn about the data we collect, how it's used, and your rights regarding your information."
+description: "Explore our comprehensive privacy policy to understand how we protect your personal information and ensure your online privacy. Learn about the data we collect, how it's used, and your rights regarding your information."
 draft: false
 ---
 
