@@ -6,7 +6,7 @@ date: 2023-12-13T09:00:00Z
 image: "/images/blog_posts/lunavpn-launch-discount-code.png"
 categories: ["LunaVPN"]
 author: "Danijel Wynyard"
-tags: ["lunavpn", "discount", "security", "customer support"]
+tags: ["lunavpn", "discount", "customer support"]
 draft: false
 ---
 
@@ -16,7 +16,7 @@ We are excited to announce that LunaVPN is now live and open for business! We in
 
 As a token of our appreciation for your support, we are offering an exclusive 10% discount on our 1, 3, 6, and 12-month plans for the first 100 customers. To claim your discount, simply use the code **LAUNCH10** during checkout.
 
-![LunaVPN Launch](/images/launch-code.jpg)
+{{< image src="images/launch-code.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 ### Join Us on Twitter
 

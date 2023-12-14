@@ -6,7 +6,7 @@ date: 2023-12-05T11:22:00Z
 image: "/images/blog_posts/lunavpn-technology-stack.png"
 categories: ["Technology", "Security"]
 author: "Danijel Wynyard"
-tags: ["vpn", ".net", "c#", "wireguard", "docker", "security"]
+tags: [".net", "docker", "security"]
 draft: false
 ---
 

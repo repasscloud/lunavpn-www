@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Your Privacy, Our Priority"
-    image: "/images/Untitled_design_2_-removebg-preview.png"
+    image: "/images/your-privacy-our-priority.png"
     content: "Unlock True Online Freedom with LunaVPN: Where Anonymity Meets Dedicated Server Excellence"
     bulletpoints:
       - "**Complete Online Anonymity:** LunaVPN guarantees your internet activities remain anonymous and hidden from prying eyes"
@@ -26,7 +26,7 @@ features:
       link: "#"
 
   - title: "Superior Speed with Wireguard Protocol"
-    image: "/images/Untitled_design_4_-removebg-preview.png"
+    image: "/images/superior-speed-with-wireguard-protocol.png"
     content: "Experience lightning-fast connections with LunaVPN's Wireguard protocol, ensuring a seamless online experience"
     bulletpoints:
       - "**Wireguard Protocol:** LunaVPN utilizes the lightweight and high-speed Wireguard protocol for optimal performance"
@@ -38,7 +38,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Top Reasons to Choose LunaVPN"
-    image: "/images/Untitled_design_5_-removebg-preview.png"
+    image: "/images/top-reasons-to-choose-lunavpn.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "**Privacy and Security:** LunaVPN prioritizes your online privacy and security, ensuring peace of mind"
