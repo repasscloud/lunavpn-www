@@ -2,7 +2,7 @@
 title: "LunaVPN's Choice: WireGuard Protocol for Unbeatable Security and Speed"
 meta_title: "Why LunaVPN Prefers WireGuard: Unveiling the Future of VPN Protocols"
 description: "Discover why LunaVPN has chosen WireGuard as its preferred protocol and how it outshines OpenVPN in terms of security, speed, and efficiency. Explore the future of VPN technology with LunaVPN."
-date: 2022-04-04T05:00:00Z
+date: 2023-12-01T05:44:00Z
 image: "/images/blog_posts/wireguard-vs-openvpn.png"
 categories: ["Wireguard"]
 author: "Danijel Wynyard"
@@ -12,7 +12,7 @@ draft: false
 
 In the realm of online security and privacy, the choice of VPN protocol plays a pivotal role. It's the backbone of the VPN service, responsible for ensuring your data remains confidential and your online activities are secure. LunaVPN takes this responsibility seriously, and that's why we've chosen WireGuard as our preferred protocol.
 
-We'll delve into why LunaVPN opts for [WireGuard](https://www.wireguard.com/) over other protocols, with a particular focus on how it compares to OpenVPN, a widely used but more traditional protocol.
+We'll delve into why LunaVPN opts for [WireGuard](https://www.wireguard.com/ "Wireguard") over other protocols, with a particular focus on how it compares to OpenVPN, a widely used but more traditional protocol.
 
 ## The WireGuard Revolution
 
@@ -20,7 +20,7 @@ WireGuard is a relatively new VPN protocol that has taken the cybersecurity worl
 
 ### 1. Speed and Efficiency
 
-One of the most significant advantages of WireGuard is its speed and efficiency. Compared to [OpenVPN](https://openvpn.net/), which can sometimes be slower due to its older design and heavier encryption, WireGuard is a lightweight protocol that offers lightning-fast connections. This speed is crucial for tasks like streaming, online gaming, and large file downloads, where lag is the enemy.
+One of the most significant advantages of WireGuard is its speed and efficiency. Compared to [OpenVPN](https://openvpn.net/ "OpenVPN"), which can sometimes be slower due to its older design and heavier encryption, WireGuard is a lightweight protocol that offers lightning-fast connections. This speed is crucial for tasks like streaming, online gaming, and large file downloads, where lag is the enemy.
 
 ### 2. Robust Security
 
@@ -36,7 +36,7 @@ WireGuard is not limited to a single operating system. It's available on Linux, 
 
 ### 5. Dynamic Tunneling
 
-WireGuard supports dynamic tunneling, allowing for connections to be established and torn down as needed. This is especially useful for mobile devices and changing network conditions. LunaVPN users can rely on a stable and adaptable [VPN](https://en.wikipedia.org/wiki/VPN_service) connection.
+WireGuard supports dynamic tunneling, allowing for connections to be established and torn down as needed. This is especially useful for mobile devices and changing network conditions. LunaVPN users can rely on a stable and adaptable [VPN](https://en.wikipedia.org/wiki/VPN_service "VPN Wikipedia article") connection.
 
 ## WireGuard vs. OpenVPN
 
@@ -44,7 +44,7 @@ Now, let's compare WireGuard to OpenVPN, a popular but older VPN protocol:
 
 - **Speed:** WireGuard is significantly faster due to its efficient design, making it the clear winner for activities that demand speed.
 
-- **Security:** While OpenVPN is secure, WireGuard's modern [cryptographic techniques](https://en.wikipedia.org/wiki/Cryptographic_hash_function) provide an edge in terms of security.
+- **Security:** While OpenVPN is secure, WireGuard's modern [cryptographic techniques](https://en.wikipedia.org/wiki/Cryptographic_hash_function "cryptographic hash function Wikipedia article") provide an edge in terms of security.
 
 - **Efficiency:** WireGuard's minimalistic design ensures efficient resource utilization, which is particularly advantageous for resource-constrained devices.
 

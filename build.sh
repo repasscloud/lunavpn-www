@@ -3,7 +3,7 @@
 # Get the CPU architecture
 arch=$(uname -m)
 
-# Check if it's arm64
+# Run docker build per arch
 if [ "$arch" = "aarch64" ]; then
     echo "This is an arm64 architecture."
 elif [ "$arch" = "x86_64" ]; then
