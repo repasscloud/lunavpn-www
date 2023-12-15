@@ -8,68 +8,66 @@ draft: false
 
 Explore LunaVPN's extensive network of 32 worldwide locations. Test the speed of our VPN servers hosted on Vultr and experience lightning-fast connections.
 
-{{< tabs >}}
-{{< tab "North America" >}}
+{{< accordion "AMERICAS" >}}
 
 #### United States
 
 - [New Jersey](https://nj-us-ping.vultr.com/)
 - [Chicago](https://il-us-ping.vultr.com/)
-- [Dallas]()
-- [Seattle]()
-- [Los Angeles]()
-- [Atlanta]()
+- [Dallas](https://tx-us-ping.vultr.com/)
+- [Seattle](https://wa-us-ping.vultr.com/)
+- [Los Angeles](https://lax-ca-us-ping.vultr.com/)
+- [Atlanta](https://ga-us-ping.vultr.com/)
+- [Silicon Valley](https://sjo-ca-us-ping.vultr.com/)
+- [Toronto](https://tor-ca-ping.vultr.com/)
+- [Miami](https://fl-us-ping.vultr.com/)
+- [Honolulu](https://hon-hi-us-ping.vultr.com/)
 
-{{< /tab >}}
+#### Latin America
 
-{{< tab "Latin America" >}}
+- [Mexico City](https://mex-mx-ping.vultr.com/)
+- [S&#227;o Paulo](https://sao-br-ping.vultr.com/)
+- [Santiago](https://scl-cl-ping.vultr.com/)
 
-#### I wanna talk about the assassination attempt
+{{< /accordion >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+{{< accordion "EMEA" >}}
 
-{{< /tab >}}
+#### Europe
 
-{{< tab "Europe" >}}
+- [Amsterdam](https://ams-nl-ping.vultr.com/)
+- [London](https://lon-gb-ping.vultr.com/)
+- [Frankfurt](https://fra-de-ping.vultr.com/)
+- [Paris](https://par-fr-ping.vultr.com/)
+- [Warsaw](https://waw-pl-ping.vultr.com/)
+- [Madrid](https://mad-es-ping.vultr.com/)
+- [Stockholm](https://sto-se-ping.vultr.com/)
+- [Manchester](https://scl-cl-ping.vultr.com/)
 
-#### We know you’re dealing in stolen ore
+#### Africa
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+- [Johannesburg](https://jnb-za-ping.vultr.com/)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+{{< /accordion >}}
 
-{{< /tab >}}
 
-{{< tab "Asia" >}}
+{{< accordion "APAC" >}}
 
-#### We know you’re dealing in stolen ore
+#### Asia
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+- [Japan](https://hnd-jp-ping.vultr.com/)
+- [Seoul](https://sel-kor-ping.vultr.com/)
+- [Singapore](https://sgp-ping.vultr.com/)
+- [Mumbai](https://bom-in-ping.vultr.com/)
+- [Tel Aviv](https://tlv-il-ping.vultr.com/)
+- [Bangalore](https://blr-in-ping.vultr.com/)
+- [Delhi NCR](https://del-in-ping.vultr.com/)
+- [Osaka](https://osk-jp-ping.vultr.com/)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+#### Australia
 
-{{< /tab >}}
+- [Sydney](https://syd-au-ping.vultr.com/)
+- [Melblourne](https://mel-au-ping.vultr.com/)
 
-{{< tab "Australia" >}}
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-
-{{< /tab >}}
-
-{{< tab "Africa" >}}
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-
-{{< /tab >}}
-
-{{< /tabs >}}
+{{< /accordion >}}
