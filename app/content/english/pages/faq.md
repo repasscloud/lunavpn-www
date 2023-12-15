@@ -220,7 +220,7 @@ Discover how LunaVPN helps you overcome throttling and enables unlimited downloa
 
 ## Technical Support
 
-### Have More Questions? Contact Our Live Chat Support!
+### Have More Questions? Contact Our Support!
 
 If you have any additional questions or if you encounter any issues, don't hesitate to reach out to the LunaVPN Support Team. Our dedicated team is here to assist you.
 
