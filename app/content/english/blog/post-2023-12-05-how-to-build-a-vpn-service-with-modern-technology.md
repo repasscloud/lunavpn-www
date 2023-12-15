@@ -1,7 +1,7 @@
 ---
 title: "How to Build a VPN Service with Modern Technology"
 meta_title: "Building a VPN Service with Modern Technology"
-description: "Discover why we chose cutting-edge technologies like .NET, Wireguard, Docker, and more to build our VPN service."
+description: "Discover why we chose cutting-edge technologies like .NET, WireGuard, Docker, and more to build our VPN service."
 date: 2023-12-05T11:22:00Z
 image: "/images/blog_posts/lunavpn-technology-stack.png"
 categories: ["Technology", "Security"]
@@ -44,11 +44,11 @@ Alpine Linux is like the fortified walls of your VPN fortress. It's lightweight 
 
 Alpine Linux boasts specific security features that bolster its reputation as a secure choice for our VPN service. Its minimalistic nature means that only essential components are included, reducing the chances of exploitable weaknesses. Additionally, Alpine Linux's proactive approach to security updates ensures that your VPN infrastructure remains protected against emerging threats. This commitment to maintaining a robust defense system is why we trust Alpine Linux to be the bedrock of our VPN service's security.
 
-## Wireguard: Cutting-Edge VPN Technology
+## WireGuard: Cutting-Edge VPN Technology
 
-Our VPN service is powered by Wireguard, a cutting-edge [VPN protocol](https://crm.org/news/types-of-vpn "vpn protocol article") known for its speed, efficiency, and security. Wireguard ensures that data transmitted through our VPN service remains private and secure, providing our users with peace of mind.
+Our VPN service is powered by WireGuard, a cutting-edge [VPN protocol](https://crm.org/news/types-of-vpn "vpn protocol article") known for its speed, efficiency, and security. WireGuard ensures that data transmitted through our VPN service remains private and secure, providing our users with peace of mind.
 
-Wireguard is like the high-speed express lane of your VPN highway. It ensures that your data travels at lightning speed while remaining shielded from prying eyes. With Wireguard, you can enjoy a fast and secure VPN experience like never before.
+WireGuard is like the high-speed express lane of your VPN highway. It ensures that your data travels at lightning speed while remaining shielded from prying eyes. With WireGuard, you can enjoy a fast and secure VPN experience like never before.
 
 ## Docker for Seamless Orchestration
 

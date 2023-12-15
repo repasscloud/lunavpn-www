@@ -39,7 +39,7 @@ features:
 
   - title: "Top Reasons to Choose LunaVPN"
     image: "/images/top-reasons-to-choose-lunavpn.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Unlock a new level of online privacy and security with LunaVPN. Our commitment to your safety make us the top choice for VPN services."
     bulletpoints:
       - "**Privacy and Security:** LunaVPN prioritizes your online privacy and security, ensuring peace of mind"
       - "**Your Exclusive VPN Server:** With LunaVPN, you get an exclusive VPN server, ensuring your online privacy is never compromised by sharing with others"
