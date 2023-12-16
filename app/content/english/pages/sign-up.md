@@ -20,28 +20,19 @@ We use Stripe for secure and seamless payment processing. Your payment informati
 
 Feel free to reach out to us if you have any questions or need assistance during the payment process. Thank you for choosing our service!
 
-<details>
-  <summary>USD (US Dollar)</summary>
 
-    <stripe-pricing-table pricing-table-id="prctbl_1ONuN5KcwfnufCukyf7FGCUn"
-    publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r">
-    </stripe-pricing-table>
-</details>
 
-{{< accordion "USD$ (US Dollar)" >}}
+#### USD$ (US Dollar)
 <stripe-pricing-table pricing-table-id="prctbl_1OND6RKcwfnufCukaaTYbTO6"
 publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r">
 </stripe-pricing-table>
-{{< /accordion >}}
 
-{{< accordion "EUR€ (Euro)" >}}
+#### EUR€ (Euro)
 <stripe-pricing-table pricing-table-id="prctbl_1ONuD4KcwfnufCukqX6JT9et"
 publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r">
 </stripe-pricing-table>
-{{< /accordion >}}
 
-{{< accordion "GBP£ (British Pound)" >}}
-
+#### GBP£ (British Pound)
 <stripe-buy-button
   buy-button-id="buy_btn_1OM9W5KcwfnufCuk6VFhz9Lw"
   publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r"
@@ -66,7 +57,6 @@ publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZ
 >
 </stripe-buy-button>
 
-{{< /accordion >}}
 
 
 
