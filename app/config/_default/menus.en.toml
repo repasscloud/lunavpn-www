@@ -22,6 +22,11 @@ name = "Legal"
 hasChildren = true
 
 [[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[main]]
 parent = "Legal"
 name = "Privacy Policy"
 url = "privacy-policy/"
@@ -39,11 +44,6 @@ name = "No Logs Policy"
 url = "no-logs-policy/"
 weight = 3
 
-[[main]]
-parent = "Legal"
-name = "Contact"
-url = "contact/"
-weight = 4
 
 #[[main]]
 #parent = "Legal"
