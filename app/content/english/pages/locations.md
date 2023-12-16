@@ -10,24 +10,24 @@ Explore LunaVPN's extensive network of 32 worldwide locations. Test the speed of
 
 {{< accordion "AMERICAS" >}}
 
-#### United States
+#### United States 🇺🇸
 
-- [New Jersey](https://nj-us-ping.vultr.com/)
-- [Chicago](https://il-us-ping.vultr.com/)
-- [Dallas](https://tx-us-ping.vultr.com/)
-- [Seattle](https://wa-us-ping.vultr.com/)
-- [Los Angeles](https://lax-ca-us-ping.vultr.com/)
-- [Atlanta](https://ga-us-ping.vultr.com/)
-- [Silicon Valley](https://sjo-ca-us-ping.vultr.com/)
-- [Toronto](https://tor-ca-ping.vultr.com/)
-- [Miami](https://fl-us-ping.vultr.com/)
-- [Honolulu](https://hon-hi-us-ping.vultr.com/)
+- [New Jersey 🇺🇸](https://nj-us-ping.vultr.com/)
+- [Chicago 🇺🇸](https://il-us-ping.vultr.com/)
+- [Dallas 🇺🇸](https://tx-us-ping.vultr.com/)
+- [Seattle 🇺🇸](https://wa-us-ping.vultr.com/)
+- [Los Angeles 🇺🇸](https://lax-ca-us-ping.vultr.com/)
+- [Atlanta 🇺🇸](https://ga-us-ping.vultr.com/)
+- [Silicon Valley 🇺🇸](https://sjo-ca-us-ping.vultr.com/)
+- [Toronto 🇺🇸](https://tor-ca-ping.vultr.com/)
+- [Miami 🇺🇸](https://fl-us-ping.vultr.com/)
+- [Honolulu 🇺🇸](https://hon-hi-us-ping.vultr.com/)
 
 #### Latin America
 
-- [Mexico City](https://mex-mx-ping.vultr.com/)
-- [S&#227;o Paulo](https://sao-br-ping.vultr.com/)
-- [Santiago](https://scl-cl-ping.vultr.com/)
+- [Mexico City 🇲🇽](https://mex-mx-ping.vultr.com/)
+- [S&#227;o Paulo 🇧🇷](https://sao-br-ping.vultr.com/)
+- [Santiago 🇨🇱](https://scl-cl-ping.vultr.com/)
 
 {{< /accordion >}}
 

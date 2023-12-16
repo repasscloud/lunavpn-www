@@ -1,8 +1,8 @@
 ---
-title: "LunaVPN Signup - USD"
-meta_title: "LunaVPN Signup - USD"
+title: "LunaVPN Signup - USD$ 🇺🇸"
+meta_title: "LunaVPN Signup - USD$ 🇺🇸"
 meta_description: "Sign up for LunaVPN and choose USD as your currency for secure and fast VPN access."
-description: "Sign up for LunaVPN using US Dollars (USD) as your preferred currency. Enjoy a secure and reliable VPN service."
+description: "Sign up for LunaVPN using 🇺🇸 US Dollars (USD) as your preferred currency. Enjoy a secure and reliable VPN service."
 draft: false
 ---
 
