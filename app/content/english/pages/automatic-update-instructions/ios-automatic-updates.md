@@ -16,4 +16,4 @@ If you'd prefer to manually update all of your apps, turn off automatic updates.
 3. Turn on or turn off App Updates.
 4. iPhone showing App Store options in Settings, including App Updates.
 
-![iPhone Automatic Updates](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios-17-iphone-15-pro-settings-app-store.png)
+![iPhone Automatic Updates](https://github.com/repasscloud/lunavpn-www/blob/fd5b9ec7aa2da2030e15ccf4f955204a282245ac/app/assets/images/ios-17-iphone-15-pro-settings-app-store.png)

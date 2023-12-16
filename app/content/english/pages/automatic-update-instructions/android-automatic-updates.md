@@ -8,7 +8,7 @@ draft: false
 
 You can update your Android apps and the Play Store app one at a time, all together, or automatically. Updating your apps to the latest version gives you access to the latest features and improves app security and stability.
 
-<div><img src="//storage.googleapis.com/support-kms-prod/t4j6IhXNAWuuuZthXpGDPqcXupXjnSOrZwN9" width="600" height="auto" alt="" data-mime-type="image/gif"></div>
+<div><img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/t4j6IhXNAWuuuZthXpGDPqcXupXjnSOrZwN9.gif" width="600" height="auto" alt="" data-mime-type="image/gif"></div>
 
 #### How to update an Android app
 
