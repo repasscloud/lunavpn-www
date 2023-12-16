@@ -60,6 +60,4 @@ Our commitment to transparency sets LunaVPN apart. We regularly publish transpar
 
 ## Is LunaVPN Right for You?
 
-In today's internet landscape, VPNs play a unique role. LunaVPN might not be a silver bullet, but it does offer significant benefits. If you want
-
-Image by [iAmMrRob](https://pixabay.com/photos/hacking-cyber-blackandwhite-crime-2903156/ "image author link") from [pixabay](https://pixabay.com "pixabay")
+In today's internet landscape, VPNs play a unique role. LunaVPN might not be a silver bullet, but it does offer significant benefits. If you want your online activity to appear from another location, LunaVPN can do that. If you're concerned about online tracking, LunaVPN can help safeguard your privacy. If you want to keep your online activity hidden from your ISP.

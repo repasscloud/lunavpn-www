@@ -61,5 +61,3 @@ Docker acts as the conductor of your VPN orchestra. It orchestrates the various 
 Maintaining the security of our VPN service is an ongoing process. We implement a robust CICD pipeline to deploy the latest security patches and updates as they become available. This proactive approach ensures that our VPN service remains resilient to emerging threats.
 
 [CICD](https://www.redhat.com/en/topics/devops/what-is-ci-cd "Red Hat CICD article") is like the vigilant guardian of your VPN fortress, constantly patrolling the walls and strengthening
-
-Image by [Myriams-Fotos](https://pixabay.com/photos/moonlight-boat-old-boat-wreck-crow-2853073/ "image author link") from [pixabay](https://pixabay.com "pixabay")

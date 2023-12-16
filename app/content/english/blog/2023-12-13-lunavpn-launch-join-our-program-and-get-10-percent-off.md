@@ -36,4 +36,4 @@ We are proud to bring LunaVPN to the public, and we can't wait for you to experi
 
 Thank you for choosing LunaVPN as your trusted VPN provider. We look forward to serving you and helping you achieve online privacy and security.
 
-*Note: This offer is valid for a limited time, so act fast to claim your discount.*
+**_Note:_ This offer is valid for the first 50 customers to sign up, so act fast to claim your discount.**
