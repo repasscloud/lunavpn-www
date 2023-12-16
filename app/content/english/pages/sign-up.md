@@ -6,9 +6,7 @@ description: "Ready to take control of your online privacy? Sign up for LunaVPN 
 draft: false
 ---
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+
 
 ## Currency Selection and Payment
 
@@ -23,6 +21,7 @@ Feel free to reach out to us if you have any questions or need assistance during
 
 
 #### USD$ (US Dollar)
+
 <stripe-pricing-table pricing-table-id="prctbl_1OND6RKcwfnufCukaaTYbTO6"
 publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r">
 </stripe-pricing-table>
@@ -33,6 +32,10 @@ publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZ
 </stripe-pricing-table>
 
 #### GBP£ (British Pound)
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
 <stripe-buy-button
   buy-button-id="buy_btn_1OM9W5KcwfnufCuk6VFhz9Lw"
   publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r"
