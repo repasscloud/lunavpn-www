@@ -30,8 +30,8 @@ Feel free to reach out to us if you have any questions or need assistance during
 
 #### Choose Your Currency:
 
-{{< button label="US Dollar (USD $)" link="/usd" style="solid" >}}
+{{< button label="US Dollar (USD $)" link="/usd" style="solid" >}}  
 
-{{< button label="Euro (EUR €)" link="/eur" style="solid" >}}
+{{< button label="Euro (EUR €)" link="/eur" style="solid" >}}  
 
 {{< button label="British Pound (GBP £)" link="/gbp" style="solid" >}}
