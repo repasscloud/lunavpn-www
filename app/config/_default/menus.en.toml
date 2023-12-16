@@ -1,0 +1,79 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Legal"
+hasChildren = true
+
+[[main]]
+name = "Contact Us"
+url = "contact/"
+weight = 5
+
+[[main]]
+parent = "Legal"
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 1
+
+[[main]]
+parent = "Legal"
+name = "Acceptable Use"
+url = "acceptable-use-policy/"
+weight = 2
+
+[[main]]
+parent = "Legal"
+name = "No Logs Policy"
+url = "no-logs-policy/"
+weight = 3
+
+
+#[[main]]
+#parent = "Legal"
+#name = "Authors"
+#url = "authors/"
+
+#[[main]]
+#parent = "Legal"
+#name = "Categories"
+#url = "categories/"
+
+#[[main]]
+#parent = "Legal"
+#name = "404 Page"
+#url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Locations"
+url = "locations/"
+weight = 2
+
+[[footer]]
+name = "Downloads"
+url = "downloads/"
+weight = 3
+

@@ -1,0 +1,29 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Run build.sh
+      run: |
+        chmod +x build.sh
+        ./build.sh
+
+    - name: Create ZIP archive
+      run: zip -r public_html.zip app/public
+
+    # - name: Upload ZIP archive
+    #   uses: actions/upload-artifact@v3
+    #   with:
+    #     name: app-artifact
+    #     path: app.zip
