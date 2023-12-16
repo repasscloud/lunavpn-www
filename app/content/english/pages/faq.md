@@ -39,7 +39,7 @@ LunaVPN offers a variety of subscription plans, including 30-day, 90-day, 180-da
 
 ### What's Included in Your LunaVPN Subscription?
 
-With LunaVPN, you're not just getting a VPN service; you're unlocking a world of dedicated online security and convenience customized just for you. Here's what you can expect with your LunaVPN subscription:
+With LunaVPN, you're not just getting a VPN service; you're unlocking a world of dedicated online security and convenience customised just for you. Here's what you can expect with your LunaVPN subscription:
 
 - **Dedicated VPN Service:** Your LunaVPN subscription grants you access to your very own VPN service, configured in the cloud exclusively for your use. It's like having a private tunnel to the internet, ensuring your online activities remain secure and anonymous.
 
@@ -49,7 +49,7 @@ With LunaVPN, you're not just getting a VPN service; you're unlocking a world of
 
 - **No Traffic Restrictions:** LunaVPN believes in internet freedom. We don't restrict or block any traffic, allowing you to browse, stream, and download without limitations. Your online experience is truly yours to control.
 
-- **32 Global Locations:**  LunaVPN offers you the flexibility to relocate your VPN service to any of our [32 global locations](/locations/) at any time during your subscription period. Whether you need to access geo-restricted content or optimize your connection speed, LunaVPN has you covered.
+- **32 Global Locations:**  LunaVPN offers you the flexibility to relocate your VPN service to any of our [32 global locations](/locations/) at any time during your subscription period. Whether you need to access geo-restricted content or optimise your connection speed, LunaVPN has you covered.
 
 - **Multiple Concurrent VPNs:** Need to secure multiple devices or access different geographical regions simultaneously? LunaVPN lets you add a second subscription to your account, allowing you to manage multiple VPN services effortlessly.
 
@@ -69,7 +69,7 @@ No, LunaVPN does not offer a lifetime subscription, and here's why:
 
 3. **Flexible and Transparent:** LunaVPN operates without automatic renewal for any subscription. We give you the freedom to choose the subscription length that suits your needs. When your subscription ends, so does your data. If you decide to start fresh, you can easily create a new instance from our 32 global locations with a new IP address and credentials.
 
-At LunaVPN, we prioritize your security and privacy and continuously invest in our service to ensure you receive top-notch quality. For more details on why LunaVPN doesn't offer lifetime subscriptions, please read our full blog post.
+At LunaVPN, we prioritise your security and privacy and continuously invest in our service to ensure you receive top-notch quality. For more details on why LunaVPN doesn't offer lifetime subscriptions, please read our full blog post.
 
 ### Why is LunaVPN Priced Higher Than Some Other VPN Services?"
 
@@ -79,9 +79,9 @@ LunaVPN takes pride in offering a unique and premium VPN experience, and here's 
 
 2. **No Traffic Restrictions:** At LunaVPN, we do not block any traffic, giving you unrestricted access to the online world. You have the flexibility to relocate your VPN service to any of our 32 global locations at any time during your subscription period.
 
-3. **Multiple Simultaneous VPN Services:** If you require more than one VPN service concurrently, LunaVPN allows you to add a second subscription to your account, each with a different geographical location.
+3. **Multiple Simultaneous VPN Services:** If you require more than one VPN service concurrently, LunaVPN allows you to add additional subscriptions to your account, each with a different geographical location.
 
-While LunaVPN may have a slightly higher price point, we believe in providing you with a superior VPN service that prioritizes your privacy and security. Our commitment to excellence and tailored VPN solutions makes LunaVPN a valuable investment in safeguarding your online activities.
+While LunaVPN may have a slightly higher price point, we believe in providing you with a superior VPN service that prioritises your privacy and security. Our commitment to excellence and tailored VPN solutions makes LunaVPN a valuable investment in safeguarding your online activities.
 
 ### Subscription Termination Notification
 
@@ -97,7 +97,7 @@ For more comprehensive information, please refer to the LunaVPN [Acceptable Use 
 
 ### How Many IP Addresses Does LunaVPN Offer?
 
-At LunaVPN, we take a different approach to IP addresses. Unlike traditional VPN providers, we don't have thousands of static IPs. Instead, we offer something more dynamic and personalized.
+At LunaVPN, we take a different approach to IP addresses. Unlike traditional VPN providers, we don't have thousands of static IPs. Instead, we offer something more dynamic and personalised.
 
 Each LunaVPN subscription grants you access to dedicated VPN servers, configured just for you, based on the location you choose. This means you get a unique IPv4 and IPv6 address running a Cloudflare DNS server, adding an extra layer of security to your web searches and routing.
 
@@ -127,7 +127,7 @@ Absolutely! LunaVPN is committed to ensuring the utmost safety and security for 
 
 - **WireGuard Technology:** LunaVPN utilises the powerful [WireGuard protocol](https://www.wireguard.com/protocol/ "WireGuard Protocol"), known for its efficiency and security, to enhance your online privacy.
 
-- **No Logs, Guaranteed:** LunaVPN strictly adheres to a no-logs policy. We do not retain any records of your online activities or connections, ensuring your complete privacy.
+- **No Logs, Guaranteed:** LunaVPN strictly adheres to a [No Logs Policy](/no-logs-policy/). We do not retain any records of your online activities or connections, ensuring your complete privacy.
 
 - **Private and Encrypted DNS:** Each server in our network employs private and encrypted DNS, including [Cloudflare DNS](https://www.cloudflare.com/dns/), further fortifying your online security.
 
@@ -196,7 +196,7 @@ If you encounter any issues with auto-updates or need further assistance, please
 
 ### Why doesn’t my LunaVPN app notify me that a new version is available?
 
-At LunaVPN, we prioritize your privacy and choice. By default, we do not contact our customers to notify them of new releases. We believe in giving you control over updates, and you must opt-in to receive notifications about new versions.
+At LunaVPN, we prioritise your privacy and choice. By default, we do not contact our customers to notify them of new releases. We believe in giving you control over updates, and you must opt-in to receive notifications about new versions.
 
 To download the latest version of the LunaVPN app, please visit [our website](/downloads/) and manually check for updates. This approach ensures that you have full control over the update process, allowing you to choose when to upgrade your app.
 
