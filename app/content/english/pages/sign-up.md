@@ -6,6 +6,9 @@ description: "Ready to take control of your online privacy? Sign up for LunaVPN 
 draft: false
 ---
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
 
 ## Currency Selection and Payment
 
