@@ -13,5 +13,5 @@ WireGuard&reg;: LunaVPN's high-speed, secure VPN protocol. <a href="https://www.
 Choose your platform below to download Wireguard for LunaVPN.
 
 | System | Download Link |
+|:-------|:--------------|
 | <i class="fa-brands fa-app-store-ios"></i> | iOS AppStore
- 
