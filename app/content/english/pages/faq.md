@@ -170,8 +170,9 @@ To install LunaVPN using WireGuard, follow these steps:
    - Log in using your username and password.
 
 2. **Download WireGuard:**
-   - Click on the "Download" menu option.
-   - Follow the instructions to download the WireGuard client for your device.
+   - You can download the WireGuard client for your device from either of the following options:
+     - From the [LunaVPN Portal](https://portal.lunavpn.co/download-client/).
+     - Visit the [Downloads Page](https://your-website.com/downloads/) on our website.
 
 3. **Import LunaVPN Configuration:**
    - From the Dashboard, click on your VPN instance.
@@ -187,9 +188,9 @@ If you require assistance, please reach out via the [Contact Us](/contact/ "Cont
 
 ### Why doesn’t the WireGuard desktop app automatically update?
 
-Auto-update is available for the WireGuard app on Android and iOS. However, for the WireGuard desktop app, including versions for Windows, Mac, and Linux, auto-update is not enabled by default.
+Auto-update is available for the WireGuard app on [Android](/android-automatic-updates/) and [iOS](/ios-automatic-updates/). However, for the WireGuard desktop app, including versions for Windows, Mac, and Linux, auto-update is not enabled by default.
 
-If you want your WireGuard desktop app to update automatically, please check the settings within the app to enable auto-updates. You can also manually download the latest version of the WireGuard desktop apps from their official website.
+If you want your WireGuard desktop app to update automatically, please check the settings within the app to enable auto-updates. You can also manually download the latest version of the WireGuard desktop apps from their [official website](https://www.wireguard.com/install/).
 
 If you encounter any issues with auto-updates or need further assistance, please refer to the WireGuard Support Team for help.
 
@@ -197,7 +198,7 @@ If you encounter any issues with auto-updates or need further assistance, please
 
 At LunaVPN, we prioritize your privacy and choice. By default, we do not contact our customers to notify them of new releases. We believe in giving you control over updates, and you must opt-in to receive notifications about new versions.
 
-To download the latest version of the LunaVPN app, please visit [our website](https://www.lunavpn.co/latest) and manually check for updates. This approach ensures that you have full control over the update process, allowing you to choose when to upgrade your app.
+To download the latest version of the LunaVPN app, please visit [our website](/downloads/) and manually check for updates. This approach ensures that you have full control over the update process, allowing you to choose when to upgrade your app.
 
 We appreciate your understanding and commitment to maintaining your privacy with LunaVPN.
 
