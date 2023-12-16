@@ -33,24 +33,29 @@ echo "Text replacement complete."
 
 # Generate sitemap.xml
 # Check if Python or Python3 is installed
+# Check if Python or Python3 is installed
 if command -v python &>/dev/null; then
     echo "Python is installed."
-    python -m pip install beautifulsoup4
+    if python -c "import bs4" &>/dev/null; then
+        echo "BeautifulSoup is already installed."
+    else
+        echo "Installing BeautifulSoup..."
+        python -m pip install beautifulsoup4
+    fi
 elif command -v python3 &>/dev/null; then
     echo "Python3 is installed."
-    python3 -m pip install beautifulsoup4
+    if python3 -c "import bs4" &>/dev/null; then
+        echo "BeautifulSoup is already installed."
+    else
+        echo "Installing BeautifulSoup..."
+        python3 -m pip install beautifulsoup4
+    fi
+
+    echo "Building sitemap.xml"
+    python gen-sitemap.py
 else
     echo "Python or Python3 is not found. Please install Python and try again."
     exit 1
 fi
 
-# Verify the installation
-if python -c "import bs4"; then
-    echo "BeautifulSoup installation successful!"
-
-    echo "Building sitemap.xml"
-    python gen-sitemap.py
-else
-    echo "BeautifulSoup installation failed."
-fi
 
