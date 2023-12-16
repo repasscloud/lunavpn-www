@@ -12,13 +12,72 @@ WireGuard&reg;: LunaVPN's high-speed, secure VPN protocol. <a href="https://www.
 
 Choose your platform below to download Wireguard for LunaVPN.
 
-| System | Download Link |
-|:-------|:--------------|
-| <i class="fa-brands fa-app-store-ios"></i> | iOS AppStore
-| <svg xmlns="http://www.w3.org/2000/svg" height="16" width="14" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM127 384.5c-5.5 9.6-17.8 12.8-27.3 7.3-9.6-5.5-12.8-17.8-7.3-27.3l14.3-24.7c16.1-4.9 29.3-1.1 39.6 11.4L127 384.5zm138.9-53.9H84c-11 0-20-9-20-20s9-20 20-20h51l65.4-113.2-20.5-35.4c-5.5-9.6-2.2-21.8 7.3-27.3 9.6-5.5 21.8-2.2 27.3 7.3l8.9 15.4 8.9-15.4c5.5-9.6 17.8-12.8 27.3-7.3 9.6 5.5 12.8 17.8 7.3 27.3l-85.8 148.6h62.1c20.2 0 31.5 23.7 22.7 40zm98.1 0h-29l19.6 33.9c5.5 9.6 2.2 21.8-7.3 27.3-9.6 5.5-21.8 2.2-27.3-7.3-32.9-56.9-57.5-99.7-74-128.1-16.7-29-4.8-58 7.1-67.8 13.1 22.7 32.7 56.7 58.9 102h52c11 0 20 9 20 20 0 11.1-9 20-20 20z"/></svg> | iOS AppStore |
-
-<a href="https://apps.apple.com/us/app/wireguard/id1441195209" class="square-button" target="_blank">
-    <i class="fa-brands fa-app-store-ios"></i>
-    <span class="button-text">iOS</span>
-</a>
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
+    <div class="p-4 bg-gray-0 text-center">
+        <a href="https://play.google.com/store/apps/details?id=com.wireguard.android" target="_blank">
+            <div class="rounded-full bg-white p-2">
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/android.svg"
+                    alt="WireGuard on Android"
+                    style="height: 60px;"
+                >
+            </div>
+            <br />Android
+        </a>
+    </div>
+    <div class="p-4 bg-gray-0 text-center">
+        <a href="https://apps.apple.com/us/app/wireguard/id1441195209" target="_blank">
+            <div class="rounded-full bg-white p-2">
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store-ios.svg"
+                    alt="WireGuard on iOS"
+                    style="height: 60px;"
+                >
+            </div>
+            <br />iPhone/iPad
+        </a>
+    </div>
+    <div class="p-4 bg-gray-0 text-center">
+        <a href="https://download.wireguard.com/windows-client/wireguard-installer.exe" target="_blank">
+            <div class="rounded-full bg-white p-2">
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/windows.svg"
+                    alt="WireGuard on Windows"
+                    style="height: 60px;"
+                >
+            </div>
+            <br />Windows
+        </a>
+    </div>
+    <div class="p-4 bg-gray-0 text-center">
+        <a href="https://itunes.apple.com/us/app/wireguard/id1441195209?ls=1&mt=8" target="_blank">
+            <div class="rounded-full bg-white p-2">
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store.svg"
+                    alt="WireGuard on Ubuntu"
+                    style="height: 60px;"
+                >
+            </div>
+            <br />macOS
+        </a>
+    </div>
+    <div class="p-4 bg-gray-0 text-center">
+        <a href="https://www.wireguard.com/install/#ubuntu-module-tools" target="_blank">
+            <div class="rounded-full bg-white p-2">
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/ubuntu.svg"
+                    alt="WireGuard on Ubuntu"
+                    style="height: 60px;"
+                >
+            </div>
+            <br />Ubuntu
+        </a>
+    </div>
+    <div class="p-4 bg-gray-0 text-center">
+        <a href="https://www.wireguard.com/install/" target="_blank">
+            <div class="rounded-full bg-white p-2">
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/linux.svg"
+                    alt="WireGuard on Linux/Other"
+                    style="height: 60px;"
+                >
+            </div>
+            <br />Linux
+        </a>
+    </div>
+</div>
 

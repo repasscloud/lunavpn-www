@@ -22,11 +22,11 @@ echo "Text replacement complete."
 # Generate sitemap.xml
 python3 gen-sitemap.py
 
+# Run Nginx container
+docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
+echo "Runs on http://localhost:80/"
+
 # Update gh-repo
 git add .
 git commit -m 'server restart'
 git push
-
-# Run Nginx container
-docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
-echo "Runs on http://localhost:80/"
