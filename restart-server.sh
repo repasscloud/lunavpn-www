@@ -17,8 +17,12 @@ replace_string='<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" v
 
 # Use find to locate and process files
 find . -type f -exec sed -i "s|$search_string|$replace_string|g" {} +
-
 echo "Text replacement complete."
+
+# Update gh-repo
+git add .
+git commit -m 'server restart'
+git push
 
 # Run Nginx container
 docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
