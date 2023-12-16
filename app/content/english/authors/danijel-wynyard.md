@@ -35,5 +35,5 @@ As I continue to champion internet freedom and strive to make LunaVPN the gold s
 
 Thank you for being a part of this mission for a safer, more private, and more equitable online world.
 
-**Danijel Wynyard**
+**Danijel Wynyard**  
 *Founder and Developer, LunaVPN*
