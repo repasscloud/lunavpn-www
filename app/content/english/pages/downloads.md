@@ -16,12 +16,12 @@ Choose your platform below to download Wireguard for LunaVPN.
     <div class="p-4 bg-gray-0 text-center">
         <a href="https://play.google.com/store/apps/details?id=com.wireguard.android" target="_blank">
             <div class="rounded-full bg-white p-2">
-                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store-ios.svg"
-                    alt="WireGuard on iOS"
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/android.svg"
+                    alt="WireGuard on Android"
                     style="height: 60px;"
                 >
             </div>
-            <br />iPhone/iPad
+            <br />Android
         </a>
     </div>
     <div class="p-4 bg-gray-0 text-center">
@@ -38,45 +38,45 @@ Choose your platform below to download Wireguard for LunaVPN.
     <div class="p-4 bg-gray-0 text-center">
         <a href="https://download.wireguard.com/windows-client/wireguard-installer.exe" target="_blank">
             <div class="rounded-full bg-white p-2">
-                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store-ios.svg"
-                    alt="WireGuard on iOS"
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/windows.svg"
+                    alt="WireGuard on Windows"
                     style="height: 60px;"
                 >
             </div>
-            <br />iPhone/iPad
+            <br />Windows
+        </a>
+    </div>
+    <div class="p-4 bg-gray-0 text-center">
+        <a href="https://itunes.apple.com/us/app/wireguard/id1441195209?ls=1&mt=8" target="_blank">
+            <div class="rounded-full bg-white p-2">
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store.svg"
+                    alt="WireGuard on Ubuntu"
+                    style="height: 60px;"
+                >
+            </div>
+            <br />macOS
         </a>
     </div>
     <div class="p-4 bg-gray-0 text-center">
         <a href="https://play.google.com/store/apps/details?id=com.wireguard.android" target="_blank">
             <div class="rounded-full bg-white p-2">
-                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store-ios.svg"
-                    alt="WireGuard on iOS"
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/ubuntu.svg"
+                    alt="WireGuard on Ubuntu"
                     style="height: 60px;"
                 >
             </div>
-            <br />iPhone/iPad
+            <br />Ubuntu
         </a>
     </div>
     <div class="p-4 bg-gray-0 text-center">
         <a href="https://play.google.com/store/apps/details?id=com.wireguard.android" target="_blank">
             <div class="rounded-full bg-white p-2">
-                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store-ios.svg"
-                    alt="WireGuard on iOS"
+                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/linux.svg"
+                    alt="WireGuard on Linux/Other"
                     style="height: 60px;"
                 >
             </div>
-            <br />iPhone/iPad
-        </a>
-    </div>
-    <div class="p-4 bg-gray-0 text-center">
-        <a href="https://play.google.com/store/apps/details?id=com.wireguard.android" target="_blank">
-            <div class="rounded-full bg-white p-2">
-                <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/app-store-ios.svg"
-                    alt="WireGuard on iOS"
-                    style="height: 60px;"
-                >
-            </div>
-            <br />iPhone/iPad
+            <br />Linux
         </a>
     </div>
 </div>
