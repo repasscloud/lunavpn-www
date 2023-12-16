@@ -53,3 +53,5 @@ How to update individual Android apps automatically
 7. Turn on **Enable auto update**.
 
 When updates are available, the app updates automatically. To turn off automatic updates, turn off **Enable auto update**.
+
+More info is available on [Google Support](https://support.google.com/googleplay/answer/113412?hl=en)
