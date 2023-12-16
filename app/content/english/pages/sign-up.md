@@ -20,11 +20,16 @@ We use Stripe for secure and seamless payment processing. Your payment informati
 Feel free to reach out to us if you have any questions or need assistance during the payment process. Thank you for choosing our service!
 
 
-#### USD$ (US Dollar)
-{{< button label="Button" link="/" style="solid" >}}
+#### US Dollar
 
-#### EUR€ (Euro)
-{{< button label="Button" link="/" style="solid" >}}
+Click to purchase in USD $
+{{< button label="USD $" link="/" style="solid" >}}
+
+#### EUR
+
+Click to purchase in EUR €
+
+{{< button label="EUR €" link="/" style="solid" >}}
 
 #### GBP£ (British Pound)
 {{< button label="Button" link="/" style="solid" >}}
