@@ -73,8 +73,8 @@ url = "locations/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Downloads"
+url = "downloads/"
 weight = 3
 
 [[footer]]

@@ -101,7 +101,7 @@ At LunaVPN, we take a different approach to IP addresses. Unlike traditional VPN
 
 Each LunaVPN subscription grants you access to dedicated VPN servers, configured just for you, based on the location you choose. This means you get a unique IPv4 and IPv6 address running a Cloudflare DNS server, adding an extra layer of security to your web searches and routing.
 
-Our server infrastructure is designed to be flexible, so we can provide as many new IP addresses as needed to meet our users' demands, ensuring optimal performance and privacy.
+Our server infrastructure is designed to be flexible, so we can provide as many new [IP addresses](https://en.wikipedia.org/wiki/IP_address) as needed to meet our users' demands, ensuring optimal performance and privacy.
 
 To explore the wide range of locations available with LunaVPN, please visit our [Locations](/locations/) page. Experience the freedom to choose and switch between our 32 global locations at any time during your subscription.
 
@@ -111,9 +111,9 @@ LunaVPN offers you a VPN service that adapts to your needs, ensuring your online
 
 At LunaVPN, your privacy is our utmost priority. We operate with a strict [No Logs Policy](/no-logs-policy/), which is ingrained directly into our VPN server deployment code. Simply put, we don't log your data, and we don't track your online activities.
 
-We believe in complete transparency and ensure that we have no knowledge of what our users do while connected to LunaVPN. We do not store any activity logs or connection logs that could compromise your privacy.
+We believe in complete transparency and ensure that we have [no knowledge of what our users do](/no-logs-policy/) while connected to LunaVPN. We do not store any [activity logs or connection logs](/no-logs-policy/) that could compromise your privacy.
 
-While we collect minimal information about the usage of our services, this data is solely used for technical purposes, such as identifying and addressing any technical issues. Rest assured, this information cannot be used to link you to any specific online activity or behavior.
+While we collect minimal information about the usage of our services, this data is solely used for technical purposes, such as identifying and addressing any technical issues or for [processing payments](https://stripe.com/au/privacy "Stripe AU Privacy Policy"). Rest assured, this information cannot be used to link you to any specific online activity or behavior.
 
 For a detailed understanding of our commitment to user privacy, please refer to LunaVPN's comprehensive [Privacy Policy](/privacy-policy/) and [Acceptable Use Policy](/acceptable-use-policy/). Your online privacy and security are our top priorities, and we are dedicated to upholding the highest standards in protecting your data.
 
@@ -125,13 +125,11 @@ Absolutely! LunaVPN is committed to ensuring the utmost safety and security for 
 
 - **Advanced Encryption:** Your data is protected with the latest industry-standard encryption, including robust 256-bit AES encryption, ensuring the utmost confidentiality of your information.
 
-- **WireGuard Technology:** LunaVPN utilizes the powerful WireGuard protocol, known for its efficiency and security, to enhance your online privacy.
-
-- **Network Lock (Kill Switch):** Our Network Lock feature acts as a fail-safe mechanism, preventing any potential leaks and preserving your online privacy, even in uncertain situations.
+- **WireGuard Technology:** LunaVPN utilises the powerful [WireGuard protocol](https://www.wireguard.com/protocol/ "WireGuard Protocol"), known for its efficiency and security, to enhance your online privacy.
 
 - **No Logs, Guaranteed:** LunaVPN strictly adheres to a no-logs policy. We do not retain any records of your online activities or connections, ensuring your complete privacy.
 
-- **Private and Encrypted DNS:** Each server in our network employs private and encrypted DNS, further fortifying your online security.
+- **Private and Encrypted DNS:** Each server in our network employs private and encrypted DNS, including [Cloudflare DNS](https://www.cloudflare.com/dns/), further fortifying your online security.
 
 - **Perfect Forward Secrecy:** We have implemented perfect forward secrecy to protect your privacy against any potential future threats.
 
@@ -139,7 +137,8 @@ Our dedicated team of security experts continually enhances our network and apps
 
 ### Why Choose LunaVPN Over Other VPN Providers?
 
-LunaVPN operates a top-tier VPN network meticulously designed for speed and dependability. Experience limitless bandwidth and the freedom to select from servers across numerous countries globally. LunaVPN prides itself on offering unparalleled network performance and VPN applications that set industry standards. Still uncertain? LunaVPN offers a no-risk 30-day money-back guarantee with all our plans, allowing you to explore the finest VPN service available worry-free.
+LunaVPN operates a top-tier VPN network meticulously designed for speed and dependability. Experience [1TB](https://cordcuttersnews.com/what-does-1tb-of-internet-really-get-you/ "What is 1TB of data?") of data per 30 days and the freedom to select from servers across [numerous countries globally](/locations/). LunaVPN prides itself on offering unparalleled network performance and VPN applications that set industry standards. Still uncertain? LunaVPN offers a no-risk 30-day money-back guarantee with all our plans, allowing you to explore the finest VPN service available worry-free.
+
 
 ### Curious about LunaVPN's Terms of Service?
 
@@ -152,7 +151,7 @@ Explore LunaVPN's [Acceptable Use Policy](/acceptable-use-policy/) to learn more
 
 To access your LunaVPN account, follow these steps:
 
-1. Visit the LunaVPN website and click on the "Sign In" option.
+1. Visit the [LunaVPN Portal](https://portal.lunavpn.co/ "LunaVPN Portal") and click on the "Sign In" option.
 
 2. Enter the email address associated with your LunaVPN account.
 
@@ -160,14 +159,14 @@ To access your LunaVPN account, follow these steps:
 
 4. Click the "Sign In" button to access your account.
 
-If you don't have a LunaVPN account yet, you can sign up [here](/sign-up/) to get started.
+If you don't have a LunaVPN account yet, you can [sign up here](/sign-up/) to get started. We support three major currencies: [USD &#36;](/usd/) 🇺🇸, [EUR &#8364;](/eur/) 🇪🇺, and [GBP &#163;](/gbp/) 🇬🇧.
 
 ### How to Install LunaVPN with WireGuard
 
 To install LunaVPN using WireGuard, follow these steps:
 
 1. **Access Your LunaVPN Account:**
-   - Go to [LunaVPN Portal](https://portal.lunavpn.co).
+   - Go to [LunaVPN Portal](https://portal.lunavpn.co/).
    - Log in using your username and password.
 
 2. **Download WireGuard:**
