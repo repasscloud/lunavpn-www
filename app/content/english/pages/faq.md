@@ -15,6 +15,7 @@ Have questions? Find answers here!
 
 {{< toc >}}
 
+
 ## VPN Basics
 
 ### What Can LunaVPN Do?
@@ -23,17 +24,18 @@ Wondering what you can achieve with LunaVPN?
 
 LunaVPN is your versatile digital companion. With LunaVPN, you can:
 
-- Conceal your actual IP address and browse the web discreetly.
-- Safeguard sensitive data (like online banking details or social media passwords) with robust VPN encryption.
+- Conceal your actual IP address and browse the web discreetly from prying eyes.
+- Safeguard sensitive data (like online banking details or social media passwords) with robust VPN encryption on public or private networks.
 - Easily access your preferred websites and social media networks, even if they're restricted.
 - Enjoy secure and unlimited streaming and downloads while staying completely anonymous.
-- Unlock online discounts for your shopping adventures.
+- Unlock online discounts for your shopping adventures by changing your region IP address.
+
 
 ## LunaVPN Subscriptions
 
-### Flexible Subscription Options
+### Flexible Subscription Plans at LunaVPN
 
-At LunaVPN, we offer a range of subscription plans, including 30-day, 60-day, 90-day, and 1-year options. You can choose the plan that suits your needs best. If you ever decide to cancel your subscription before it expires, simply contact us, and we'll refund the remaining period of your plan. We believe in flexibility and want you to have full control over your LunaVPN experience.
+LunaVPN offers a variety of subscription plans, including 30-day, 60-day, 90-day, 180-day, and 1-year options. You can select the plan that aligns with your requirements. Should you opt to cancel your subscription before its completion, reach out to us, and we'll provide a prorated refund based on the remaining days of your plan. We value flexibility and want to ensure you have complete control over your LunaVPN experience.
 
 ### What's Included in Your LunaVPN Subscription?
 
@@ -47,7 +49,7 @@ With LunaVPN, you're not just getting a VPN service; you're unlocking a world of
 
 - **No Traffic Restrictions:** LunaVPN believes in internet freedom. We don't restrict or block any traffic, allowing you to browse, stream, and download without limitations. Your online experience is truly yours to control.
 
-- **32 Global Locations:**  LunaVPN offers you the flexibility to relocate your VPN service to any of our 32 global locations at any time during your subscription period. Whether you need to access geo-restricted content or optimize your connection speed, LunaVPN has you covered.
+- **32 Global Locations:**  LunaVPN offers you the flexibility to relocate your VPN service to any of our [32 global locations](/locations/) at any time during your subscription period. Whether you need to access geo-restricted content or optimize your connection speed, LunaVPN has you covered.
 
 - **Multiple Concurrent VPNs:** Need to secure multiple devices or access different geographical regions simultaneously? LunaVPN lets you add a second subscription to your account, allowing you to manage multiple VPN services effortlessly.
 
@@ -89,6 +91,7 @@ At LunaVPN, we believe in transparency and clear communication with our users. I
 - If applicable, any unused portion of your payment will be promptly refunded to you.
 
 For more comprehensive information, please refer to the LunaVPN [Acceptable Use Policy](/acceptable-use-policy/). Your satisfaction and trust are our top priorities.
+
 
 ## About LunaVPN
 
@@ -141,6 +144,7 @@ LunaVPN operates a top-tier VPN network meticulously designed for speed and depe
 ### Curious about LunaVPN's Terms of Service?
 
 Explore LunaVPN's [Acceptable Use Policy](/acceptable-use-policy/) to learn more about our company and policies.
+
 
 ## Using LunaVPN
 
@@ -217,6 +221,7 @@ If you have any questions or need further assistance with choosing server locati
 No, LunaVPN does not impose any monthly data caps or throttle your internet service provided by your ISP (Internet Service Provider).
 
 Discover how LunaVPN helps you overcome throttling and enables unlimited downloads without any restrictions.
+
 
 ## Technical Support
 

@@ -9,7 +9,7 @@ social:
     link: https://github.com/danijeljw
 
   - name: twitter
-    icon: fa-brands fa-twitter
+    icon: fa-brands fa-x-twitter
     link: https://twitter.com/danijeljw
 
   - name: linkedin
