@@ -10,7 +10,7 @@ Explore LunaVPN's extensive network of 32 worldwide locations. Test the speed of
 
 {{< accordion "AMERICAS" >}}
 
-#### United States 🇺🇸
+#### United States
 
 - [New Jersey 🇺🇸](https://nj-us-ping.vultr.com/)
 - [Chicago 🇺🇸](https://il-us-ping.vultr.com/)
@@ -36,18 +36,18 @@ Explore LunaVPN's extensive network of 32 worldwide locations. Test the speed of
 
 #### Europe
 
-- [Amsterdam](https://ams-nl-ping.vultr.com/)
-- [London](https://lon-gb-ping.vultr.com/)
-- [Frankfurt](https://fra-de-ping.vultr.com/)
-- [Paris](https://par-fr-ping.vultr.com/)
-- [Warsaw](https://waw-pl-ping.vultr.com/)
-- [Madrid](https://mad-es-ping.vultr.com/)
-- [Stockholm](https://sto-se-ping.vultr.com/)
-- [Manchester](https://scl-cl-ping.vultr.com/)
+- [Amsterdam 🇳🇱](https://ams-nl-ping.vultr.com/)
+- [London 🇬🇧](https://lon-gb-ping.vultr.com/)
+- [Frankfurt 🇩🇪](https://fra-de-ping.vultr.com/)
+- [Paris 🇫🇷](https://par-fr-ping.vultr.com/)
+- [Warsaw 🇵🇱](https://waw-pl-ping.vultr.com/)
+- [Madrid 🇪🇸](https://mad-es-ping.vultr.com/)
+- [Stockholm 🇸🇪](https://sto-se-ping.vultr.com/)
+- [Manchester 🇬🇧](https://scl-cl-ping.vultr.com/)
 
 #### Africa
 
-- [Johannesburg](https://jnb-za-ping.vultr.com/)
+- [Johannesburg 🇿🇦](https://jnb-za-ping.vultr.com/)
 
 {{< /accordion >}}
 
@@ -56,18 +56,18 @@ Explore LunaVPN's extensive network of 32 worldwide locations. Test the speed of
 
 #### Asia
 
-- [Japan](https://hnd-jp-ping.vultr.com/)
-- [Seoul](https://sel-kor-ping.vultr.com/)
-- [Singapore](https://sgp-ping.vultr.com/)
-- [Mumbai](https://bom-in-ping.vultr.com/)
-- [Tel Aviv](https://tlv-il-ping.vultr.com/)
-- [Bangalore](https://blr-in-ping.vultr.com/)
-- [Delhi NCR](https://del-in-ping.vultr.com/)
-- [Osaka](https://osk-jp-ping.vultr.com/)
+- [Tokyo 🇯🇵](https://hnd-jp-ping.vultr.com/)
+- [Seoul 🇰🇷](https://sel-kor-ping.vultr.com/)
+- [Singapore 🇸🇬](https://sgp-ping.vultr.com/)
+- [Mumbai 🇮🇳](https://bom-in-ping.vultr.com/)
+- [Tel Aviv 🇮🇱](https://tlv-il-ping.vultr.com/)
+- [Bangalore 🇮🇳](https://blr-in-ping.vultr.com/)
+- [Delhi NCR 🇮🇳](https://del-in-ping.vultr.com/)
+- [Osaka 🇯🇵](https://osk-jp-ping.vultr.com/)
 
 #### Australia
 
-- [Sydney](https://syd-au-ping.vultr.com/)
-- [Melblourne](https://mel-au-ping.vultr.com/)
+- [Sydney 🇦🇺](https://syd-au-ping.vultr.com/)
+- [Melblourne 🇦🇺](https://mel-au-ping.vultr.com/)
 
 {{< /accordion >}}
