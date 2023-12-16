@@ -22,7 +22,7 @@ name = "Legal"
 hasChildren = true
 
 [[main]]
-name = "Contact"
+name = "Contact Us"
 url = "contact/"
 weight = 5
 
@@ -77,7 +77,3 @@ name = "Downloads"
 url = "downloads/"
 weight = 3
 
-[[footer]]
-name = "Contact Us"
-url = "contact/"
-weight = 4

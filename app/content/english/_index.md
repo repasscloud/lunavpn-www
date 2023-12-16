@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Secure My Connection"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/sign-up/"
 
 # Features
 features:
@@ -23,7 +23,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "/sign-up/"
 
   - title: "Superior Speed with Wireguard Protocol"
     image: "/images/superior-speed-with-wireguard-protocol.png"
@@ -35,7 +35,7 @@ features:
     button:
       enable: true
       label: "Learn More"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "/faq/"
 
   - title: "Top Reasons to Choose LunaVPN"
     image: "/images/top-reasons-to-choose-lunavpn.png"
