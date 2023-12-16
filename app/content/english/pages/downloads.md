@@ -14,7 +14,7 @@ Choose your platform below to download Wireguard for LunaVPN.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
     <div class="p-4 bg-gray-0">Column 1</div>
-    <div class="p-4 bg-gray-200">Column 2</div>
+    <div class="p-4 bg-gray-200 text-center">Column 2</div>
     <div class="p-4 bg-gray-300">Column 3</div>
     <div class="p-4 bg-gray-400">Column 4</div>
     <div class="p-4 bg-gray-500">Column 5</div>
