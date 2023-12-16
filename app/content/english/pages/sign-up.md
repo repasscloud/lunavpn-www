@@ -5,12 +5,10 @@ meta description: "Secure your online presence with LunaVPN. Sign up today and e
 description: "Ready to take control of your online privacy? Sign up for LunaVPN and experience secure, anonymous browsing, streaming, and more. Join us today!"
 draft: false
 ---
-<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-
 
 ## Currency Selection and Payment
 
-Choose your preferred currency and make a secure payment using Stripe. We support three major currencies: USD, EUR, and GBP. Simply click on the respective accordion to view the prices in your chosen currency.
+Choose your preferred currency and make a secure payment using Stripe. We support three major currencies: USD, EUR, and GBP. Simply click on the respective button to view the prices in your chosen currency.
 
 
 ### Payment Method: Stripe
