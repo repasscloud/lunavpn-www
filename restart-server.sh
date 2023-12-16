@@ -32,6 +32,7 @@ mkdir docs
 cp -r app/public/* ./docs/
 mkdir -p ./docs/.well-known
 cp ./apple-developer-merchantid-domain-association ./docs/.well-known/apple-developer-merchantid-domain-association
+cp ./LunaVPN-Auth0-Logo.png ./docs/images/LunaVPN-Auth0-Logo.png
 
 # Update gh-repo
 git add .
