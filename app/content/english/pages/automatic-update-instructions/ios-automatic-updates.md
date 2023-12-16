@@ -10,7 +10,7 @@ You can update your Android apps and the Play Store app one at a time, all toget
 
 #### How to update an Android app
 
-1. Open the Google Play Store app Google Play.
+1. Open the Google Play Store app Google Play <img src="//storage.googleapis.com/support-kms-prod/HIW81g8nflvhNKmYm3Q1IYhcWa6h9CBASKWd" width="18" height="18" alt="Google Play" data-mime-type="image/png">.
 2. At the top right, tap the profile icon.
 3. Tap **Manage apps & device**. Apps with an update available are labeled "Update available."
 4. Tap **Update**.
