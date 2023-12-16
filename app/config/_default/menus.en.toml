@@ -39,6 +39,12 @@ name = "Contact"
 url = "contact/"
 weight = 3
 
+[[main]]
+parent = "Legal"
+name = "No Logs Policy"
+url = "/no-logs-policy/"
+weight = 3
+
 #[[main]]
 #parent = "Legal"
 #name = "Authors"
