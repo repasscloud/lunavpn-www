@@ -19,6 +19,9 @@ replace_string='<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" v
 find . -type f -exec sed -i "s|$search_string|$replace_string|g" {} +
 echo "Text replacement complete."
 
+# Generate sitemap.xml
+python3 gen-sitemap.py
+
 # Update gh-repo
 git add .
 git commit -m 'server restart'

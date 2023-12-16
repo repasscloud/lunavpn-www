@@ -1,6 +1,6 @@
 ---
 title: "LunaVPN: Your Gateway to Online Privacy"
-meta_title: "In a world where online privacy is more critical than ever, LunaVPN emerged as a beacon of hope, a product of our unwavering commitment to your digital security."
+meta_title: "LunaVPN: Your Gateway to Online Privacy"
 description: "In a world where online privacy is more critical than ever, LunaVPN emerged as a beacon of hope, a product of our unwavering commitment to your digital security."
 image: "/images/lunavpn-who-we-are.png"
 draft: false
