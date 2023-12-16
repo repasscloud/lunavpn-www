@@ -42,7 +42,7 @@ weight = 3
 [[main]]
 parent = "Legal"
 name = "No Logs Policy"
-url = "/no-logs-policy/"
+url = "no-logs-policy/"
 weight = 3
 
 #[[main]]
@@ -76,3 +76,8 @@ weight = 2
 name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 3
+
+[[footer]]
+name = "Contact Us"
+url = "contact/"
+weight = 4
