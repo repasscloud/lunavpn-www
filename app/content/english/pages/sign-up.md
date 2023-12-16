@@ -22,14 +22,11 @@ Feel free to reach out to us if you have any questions or need assistance during
 
 #### US Dollar
 
-Click to purchase in USD $
 {{< button label="USD $" link="/" style="solid" >}}
 
-#### EUR
-
-Click to purchase in EUR €
+#### Euro
 
 {{< button label="EUR €" link="/" style="solid" >}}
 
-#### GBP£ (British Pound)
-{{< button label="Button" link="/" style="solid" >}}
+#### British Pound
+{{< button label="GBP £" link="/" style="solid" >}}
