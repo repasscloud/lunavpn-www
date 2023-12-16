@@ -28,8 +28,8 @@ Feel free to [reach out to us if you have any questions](/contact/) or need assi
 
 #### Choose Your Currency:
 
-{{< button label="US Dollar (USD $)" link="/usd" style="solid" >}}<br />
+{{< button label="US Dollar 🇺🇸 (USD $)" link="/usd" style="solid" >}}<br />
 
 {{< button label="Euro 🇪🇺 (EUR €)" link="/eur" style="solid" >}}<br />
 
-{{< button label="British Pound (GBP £)" link="/gbp" style="solid" >}}
+{{< button label="British Pound 🇬🇧 (GBP £)" link="/gbp" style="solid" >}}
