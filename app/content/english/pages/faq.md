@@ -184,7 +184,7 @@ To install LunaVPN using WireGuard, follow these steps:
 5. **Enjoy Enhanced Privacy and Security:**
    - LunaVPN with WireGuard is now installed on your device, providing you with increased privacy and security while browsing the internet.
 
-If you require assistance, please reach out via the LunaVPN Portal or the Contact page.
+If you require assistance, please reach out via the [Contact Us](/contact/ "Contact Us") page.
 
 ### Why doesn’t the WireGuard desktop app automatically update?
 
