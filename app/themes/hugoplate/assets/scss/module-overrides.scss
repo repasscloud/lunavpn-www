@@ -84,36 +84,3 @@
     }
   }
 }
-
-@media (min-width: 992px) {
-  .custom-lg-col {
-      flex: 0 0 auto;
-      width: 16.666667%;
-      max-width: 16.666667%;
-  }
-}
-
-// For medium screens (md) and above
-@media (min-width: 768px) {
-  .custom-md-col {
-      flex: 0 0 auto;
-      width: 33.333333%;
-      max-width: 33.333333%;
-  }
-}
-
-// For small screens (sm) and above
-@media (min-width: 576px) {
-  .custom-sm-col {
-      flex: 0 0 auto;
-      width: 50%;
-      max-width: 50%;
-  }
-}
-
-// For extra small screens (xs) and above (mobile devices)
-.custom-xs-col {
-  flex: 0 0 auto;
-  width: 100%;
-  max-width: 100%;
-}
