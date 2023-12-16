@@ -31,7 +31,30 @@ publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZ
 {{< /accordion >}}
 
 {{< accordion "GBP£ (British Pound)" >}}
+<stripe-buy-button
+  buy-button-id="buy_btn_1OM9W5KcwfnufCuk6VFhz9Lw"
+  publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r"
+>
+</stripe-buy-button>
+<stripe-buy-button
+  buy-button-id="buy_btn_1OM9VNKcwfnufCukIjX8Gm3h"
+  publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r"
+>
+</stripe-buy-button>
+<stripe-buy-button
+  buy-button-id="buy_btn_1OM9UJKcwfnufCukgbSpiz3O"
+  publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r"
+>
+</stripe-buy-button>
+<stripe-buy-button
+  buy-button-id="buy_btn_1OM9RdKcwfnufCukDHeTpt5R"
+  publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r"
+>
+</stripe-buy-button>
+{{< /accordion >}}
+
+
+
 <stripe-pricing-table pricing-table-id="prctbl_1ONuN5KcwfnufCukyf7FGCUn"
 publishable-key="pk_test_51HiceVKcwfnufCukziNp1oruZ2nuPpARzfQlWISrKODNbE3ZcvfkVZFwO4DZWY4FwPwI5unnNBLvN0qOkpd89grY00gltyqH3r">
 </stripe-pricing-table>
-{{< /accordion >}}
