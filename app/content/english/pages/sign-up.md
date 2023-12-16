@@ -6,9 +6,7 @@ description: "Ready to take control of your online privacy? Sign up for LunaVPN 
 draft: false
 ---
 
-## Currency Selection and Payment
-
-Choose your preferred currency and make a secure payment using Stripe. We support three major currencies: USD, EUR, and GBP. Simply click on the respective button to view the prices in your chosen currency.
+Choose your preferred currency and make a secure payment using Stripe. We support three major currencies: [USD $](/usd/), [EUR &#8364;](/eur/), and [GBP &pound;](/gbp/). Simply click on the respective button to view the prices in your chosen currency.
 
 ### Features and Inclusions
 
