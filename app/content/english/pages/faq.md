@@ -35,7 +35,7 @@ LunaVPN is your versatile digital companion. With LunaVPN, you can:
 
 ### Flexible Subscription Plans at LunaVPN
 
-LunaVPN offers a variety of subscription plans, including 30-day, 60-day, 90-day, 180-day, and 1-year options. You can select the plan that aligns with your requirements. Should you opt to cancel your subscription before its completion, reach out to us, and we'll provide a prorated refund based on the remaining days of your plan. We value flexibility and want to ensure you have complete control over your LunaVPN experience.
+LunaVPN offers a variety of subscription plans, including 30-day, 90-day, 180-day, and 1-year options. You can select the plan that aligns with your requirements. Should you opt to cancel your subscription before its completion, reach out to us, and we'll provide a prorated refund based on the remaining days of your plan. We value flexibility and want to ensure you have complete control over your LunaVPN experience.
 
 ### What's Included in Your LunaVPN Subscription?
 
