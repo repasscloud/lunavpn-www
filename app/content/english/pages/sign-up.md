@@ -15,7 +15,7 @@ Choose LunaVPN in your preferred currency for a secure and feature-rich experien
 - **Dedicated Server**: Enjoy a dedicated server for the duration of your license period.
 - **24/7 Email Support**: Our support team is available round the clock to assist you.
 - **Dedicated IPv4/IPv6 Address**: Benefit from a dedicated IP address for enhanced security.
-- **Cloudflare DNS**: Utilize Cloudflare DNS for faster and more secure browsing.
+- **Cloudflare DNS**: Utilise Cloudflare DNS for faster and more secure browsing.
 - **Relocate to Any of 32 Locations**: Flexibility to change your server location anytime during the license period.
 - **Connect Up to 8 Devices**: Securely connect up to 8 devices simultaneously per VPN license.
 - **Secured by WireGuard**: Our VPN service is secured using the latest WireGuard technology.
@@ -24,7 +24,7 @@ Choose LunaVPN in your preferred currency for a secure and feature-rich experien
 
 We use Stripe for secure and seamless payment processing. Your payment information is handled with the utmost security. Once you select your currency and click "Pay Now," you'll be redirected to the Stripe payment gateway to complete your transaction.
 
-Feel free to reach out to us if you have any questions or need assistance during the payment process. Thank you for choosing our service!
+Feel free to [reach out to us if you have any questions](/contact/) or need assistance during the payment process. Thank you for choosing our service!
 
 #### Choose Your Currency:
 
