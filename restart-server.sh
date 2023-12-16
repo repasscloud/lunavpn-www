@@ -26,10 +26,12 @@ python3 gen-sitemap.py
 docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
 echo "Runs on http://localhost:80/"
 
-# Remove docs
+# Rplace docs
 rm -rf ./docs
 mkdir docs
 cp -r app/public/* ./docs/
+mkdir -p ./docs/.well-known
+cp ./apple-developer-merchantid-domain-association ./docs/.well-known/apple-developer-merchantid-domain-association
 
 # Update gh-repo
 git add .
