@@ -81,3 +81,14 @@ weight = 3
 name = "Contact Us"
 url = "contact/"
 weight = 4
+
+[[footer]]
+weight = 5
+name = "About2"
+hasChildren = true
+
+[[footer]]
+parent = "About2"
+name = "Contact"
+url = "contact/"
+weight = `
