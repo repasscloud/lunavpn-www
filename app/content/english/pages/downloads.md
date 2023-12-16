@@ -58,7 +58,7 @@ Choose your platform below to download Wireguard for LunaVPN.
         </a>
     </div>
     <div class="p-4 bg-gray-0 text-center">
-        <a href="https://play.google.com/store/apps/details?id=com.wireguard.android" target="_blank">
+        <a href="https://www.wireguard.com/install/#ubuntu-module-tools" target="_blank">
             <div class="rounded-full bg-white p-2">
                 <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/ubuntu.svg"
                     alt="WireGuard on Ubuntu"
@@ -69,7 +69,7 @@ Choose your platform below to download Wireguard for LunaVPN.
         </a>
     </div>
     <div class="p-4 bg-gray-0 text-center">
-        <a href="https://play.google.com/store/apps/details?id=com.wireguard.android" target="_blank">
+        <a href="https://www.wireguard.com/install/" target="_blank">
             <div class="rounded-full bg-white p-2">
                 <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/custom-css/app/assets/images/fa-icons/linux.svg"
                     alt="WireGuard on Linux/Other"
