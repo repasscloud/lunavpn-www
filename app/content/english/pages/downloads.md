@@ -15,3 +15,9 @@ Choose your platform below to download Wireguard for LunaVPN.
 | System | Download Link |
 |:-------|:--------------|
 | <i class="fa-brands fa-app-store-ios"></i> | iOS AppStore
+
+<a href="https://apps.apple.com/us/app/wireguard/id1441195209" class="square-button" target="_blank">
+    <i class="fa-brands fa-app-store-ios"></i>
+    <span class="button-text">iOS</span>
+</a>
+ 
