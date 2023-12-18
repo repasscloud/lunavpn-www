@@ -51,7 +51,7 @@ weight = 3
 
 [[main]]
 parent = "Subscribe"
-name = "USD $"
+name = "USD $ 🇺🇸"
 url = "/usd/"
 weight = 1
 
