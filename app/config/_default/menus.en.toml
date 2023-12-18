@@ -51,19 +51,19 @@ weight = 3
 
 [[main]]
 parent = "Subscribe"
-name = "USD $ 🇺🇸"
+name = "🇺🇸 USD $"
 url = "/usd/"
 weight = 1
 
 [[main]]
 parent = "Subscribe"
-name = "EUR €"
+name = "🇪🇺 EUR €"
 url = "/eur/"
 weight = 2
 
 [[main]]
 parent = "Subscribe"
-name = "GBP £"
+name = "🇬🇧 GBP £"
 url = "/gbp/"
 weight = 3
 
