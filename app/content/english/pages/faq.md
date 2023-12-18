@@ -71,7 +71,7 @@ No, LunaVPN does not offer a lifetime subscription, and here's why:
 
 At LunaVPN, we prioritise your security and privacy and continuously invest in our service to ensure you receive top-notch quality. For more details on why LunaVPN doesn't offer lifetime subscriptions, please read our full blog post.
 
-### Why is LunaVPN Priced Higher Than Some Other VPN Services?"
+### Why is LunaVPN Priced Higher Than Some Other VPN Services?
 
 LunaVPN takes pride in offering a unique and premium VPN experience, and here's why our pricing may be slightly higher:
 

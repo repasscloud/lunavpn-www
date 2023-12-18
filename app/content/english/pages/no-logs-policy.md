@@ -53,7 +53,7 @@ Our commitment to a no-logs policy is reinforced by third-party audits. Independ
 
 For more in-depth insights into our no-logs policy and commitment to privacy, explore the third-party reports regarding our practices.
 
-LunaVPN: Your Trusted No-Logs VPN
+**LunaVPN:** Your Trusted No-Logs VPN
 
 At LunaVPN, we believe in upholding your right to online privacy. We are committed to providing a secure, private, and anonymous online experience. Choose LunaVPN, the VPN that truly values and protects your privacy.
 
@@ -61,4 +61,4 @@ At LunaVPN, we believe in upholding your right to online privacy. We are committ
 
 Ready to experience true online privacy? Get started with LunaVPN today and enjoy the peace of mind that comes with a genuine no-logs VPN.
 
-{{< button label="Sign Up Now" link="/" style="solid" >}} {{< button label="Learn More" link="/" style="solid" >}}
+{{< button label="Sign Up Now" link="/sign-up/" style="solid" >}} &nbsp; {{< button label="Learn More" link="/faq/" style="solid" >}}

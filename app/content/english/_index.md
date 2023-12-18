@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Secure My Connection"
+    label: "Get LunaVPN"
     link: "/sign-up/"
 
 # Features

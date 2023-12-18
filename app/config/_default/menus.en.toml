@@ -22,9 +22,14 @@ name = "Legal"
 hasChildren = true
 
 [[main]]
+weight = 5
+name = "Subscribe"
+hasChildren = true
+
+[[main]]
 name = "Contact Us"
 url = "contact/"
-weight = 5
+weight = 6
 
 [[main]]
 parent = "Legal"
@@ -42,6 +47,24 @@ weight = 2
 parent = "Legal"
 name = "No Logs Policy"
 url = "no-logs-policy/"
+weight = 3
+
+[[main]]
+parent = "Subscribe"
+name = "USD $"
+url = "/usd/"
+weight = 1
+
+[[main]]
+parent = "Subscribe"
+name = "EUR €"
+url = "/eur/"
+weight = 2
+
+[[main]]
+parent = "Subscribe"
+name = "GBP £"
+url = "/gbp/"
 weight = 3
 
 

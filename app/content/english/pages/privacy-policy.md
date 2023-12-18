@@ -14,7 +14,7 @@ This privacy notice for RePass Cloud Pty Ltd (doing business as LunaVPN.co) ('we
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at privacy@lunavpn.co.
 
 
-## SUMMARY OF KEY POINTS
+### SUMMARY OF KEY POINTS
 
 **_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for._**
 
@@ -38,9 +38,9 @@ Want to learn more about what we do with any information we collect? Review the 
 
 {{< toc >}}
 
-## WHAT INFORMATION DO WE COLLECT?
+### WHAT INFORMATION DO WE COLLECT?
 
-### Personal information you disclose to us {#personal-info}
+#### Personal information you disclose to us {#personal-info}
 
 **In Short:** We collect personal information that you provide to us.
 
