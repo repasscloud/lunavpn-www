@@ -35,6 +35,6 @@ cp ./apple-developer-merchantid-domain-association ./docs/.well-known/apple-deve
 cp ./LunaVPN-Auth0-Logo.png ./docs/images/LunaVPN-Auth0-Logo.png
 
 # Update gh-repo
-git add .
-git commit -m 'server restart'
-git push
+# git add .
+# git commit -m 'server restart'
+# git push

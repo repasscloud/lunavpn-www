@@ -22,7 +22,7 @@ I'm thrilled to welcome you to the LunaVPN family! Here's what you need to know 
 
 ### Accessing LunaVPN
 
-- **Log In and Explore**: Once your password is set, you can log in to your LunaVPN portal. Just click the **Login** button or find the login option at the top right-hand corner of our [homepage](#).
+- **Log In and Explore**: Once your password is set, you can log in to your LunaVPN portal. Just click the **Login** button or find the login option at the top right-hand corner of our [homepage](/).
 
 ---
 

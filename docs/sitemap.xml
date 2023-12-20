@@ -36,13 +36,6 @@
     <author>repasscloud</author>
   </url>
   <url>
-    <loc>https://lunavpn.co/subscribe-success/index.html</loc>
-    <title>Subscription Successful - LunaVPN</title>
-    <description>This page confirms the successful subscription to LunaVPN.</description>
-    <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
-    <author>repasscloud</author>
-  </url>
-  <url>
     <loc>https://lunavpn.co/eur/index.html</loc>
     <title>LunaVPN Signup - EUR€ 🇪🇺</title>
     <description>Sign up for LunaVPN using 🇪🇺 Euro (EUR) as your preferred currency. Enjoy a secure and reliable VPN service.</description>
@@ -298,6 +291,13 @@
     <loc>https://lunavpn.co/elements/index.html</loc>
     <title>Elements</title>
     <description>This is meta description</description>
+    <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
+    <author>repasscloud</author>
+  </url>
+  <url>
+    <loc>https://lunavpn.co/thankyou-for-subscribing/index.html</loc>
+    <title>Subscription Successful - LunaVPN</title>
+    <description>This page confirms the successful subscription to LunaVPN.</description>
     <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
     <author>repasscloud</author>
   </url>
