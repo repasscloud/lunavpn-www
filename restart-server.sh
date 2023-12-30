@@ -26,7 +26,7 @@ python3 gen-sitemap.py
 docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
 echo "Runs on http://localhost:80/"
 
-# Rplace docs
+# Replace docs
 rm -rf ./docs
 mkdir docs
 cp -r app/public/* ./docs/
