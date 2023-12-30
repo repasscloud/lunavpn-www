@@ -2,7 +2,7 @@
 title: "LunaVPN Launch: Join Our Program and Get 10% Off!"
 meta_title: "LunaVPN Launch: Get 10% Off on 1, 3, 6, and 12-Month Plans"
 description: "LunaVPN is live and welcoming everyone to join our program. For the first 100 customers, we are offering a 10% discount on 1, 3, 6, and 12-month plans."
-date: 2023-12-13T09:00:00Z
+date: 2023-12-13T11:11:00Z
 image: "/images/blog_posts/lunavpn-launch-discount-code.png"
 categories: ["LunaVPN"]
 author: "Danijel Wynyard"

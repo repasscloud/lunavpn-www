@@ -11,7 +11,7 @@ Have questions? Find answers here!
 - Need **assistance with LunaVPN setup on your device?** Explore our comprehensive setup tutorials.
 - Encountering **issues while using LunaVPN on your device?** Check out our troubleshooting guides.
 
-**Looking for real-time support?** Don't hesitate to [reach out to our LunaVPN Support Team for further assistance](/contact/).
+**Looking for real-time support?** Don't hesitate to [reach out to our LunaVPN Support Team for further assistance](/contact/ "LunaVPN Contact").
 
 {{< toc >}}
 
@@ -35,7 +35,7 @@ LunaVPN is your versatile digital companion. With LunaVPN, you can:
 
 ### Flexible Subscription Plans at LunaVPN
 
-LunaVPN offers a variety of subscription plans, including 30-day, 90-day, 180-day, and 1-year options. You can select the plan that aligns with your requirements. Should you opt to cancel your subscription before its completion, reach out to us, and we'll provide a prorated refund based on the remaining days of your plan. We value flexibility and want to ensure you have complete control over your LunaVPN experience.
+LunaVPN offers a variety of subscription plans, including 30-day, 180-day, and 1-year options. You can select the plan that aligns with your requirements. Should you opt to cancel your subscription before its completion, reach out to us, and we'll provide a prorated refund based on the remaining days of your plan. We value flexibility and want to ensure you have complete control over your LunaVPN experience.
 
 ### What's Included in Your LunaVPN Subscription?
 
@@ -49,7 +49,7 @@ With LunaVPN, you're not just getting a VPN service; you're unlocking a world of
 
 - **No Traffic Restrictions:** LunaVPN believes in internet freedom. We don't restrict or block any traffic, allowing you to browse, stream, and download without limitations. Your online experience is truly yours to control.
 
-- **32 Global Locations:**  LunaVPN offers you the flexibility to relocate your VPN service to any of our [32 global locations](/locations/) at any time during your subscription period. Whether you need to access geo-restricted content or optimise your connection speed, LunaVPN has you covered.
+- **32 Global Locations:**  LunaVPN offers you the flexibility to relocate your VPN service to any of our [32 global locations](/locations/ "LunaVPN Locations") at any time during your subscription period. Whether you need to access geo-restricted content or optimise your connection speed, LunaVPN has you covered.
 
 - **Multiple Concurrent VPNs:** Need to secure multiple devices or access different geographical regions simultaneously? LunaVPN lets you add a second subscription to your account, allowing you to manage multiple VPN services effortlessly.
 
@@ -57,7 +57,7 @@ Experience the future of online privacy and security with LunaVPN. Your digital 
 
 ### Want to Cancel Your Subscription?
 
-If you'd like to cancel your LunaVPN subscription, please refer to our cancellation instructions here.
+If you'd like to cancel your LunaVPN subscription, please refer to our cancellation instructions [here](/cancellation-policy/ "LunaVPN Cancellation Policy and Instructions").
 
 ### Is There a Lifetime Subscription Option for LunaVPN?
 
@@ -69,11 +69,11 @@ No, LunaVPN does not offer a lifetime subscription, and here's why:
 
 3. **Flexible and Transparent:** LunaVPN operates without automatic renewal for any subscription. We give you the freedom to choose the subscription length that suits your needs. When your subscription ends, so does your data. If you decide to start fresh, you can easily create a new instance from our 32 global locations with a new IP address and credentials.
 
-At LunaVPN, we prioritise your security and privacy and continuously invest in our service to ensure you receive top-notch quality. For more details on why LunaVPN doesn't offer lifetime subscriptions, please read our full blog post.
+At LunaVPN, we prioritise your security and privacy and continuously invest in our service to ensure you receive top-notch quality. For more details on why LunaVPN doesn't offer lifetime subscriptions, please read our [full blog post](/blog/2023-12-01-lunavpns-choice-wireguard-protocol-for-unbeatable-security-and-speed/ "WireGuard protocol for unbeatable security and speed").
 
 ### Why is LunaVPN Priced Higher Than Some Other VPN Services?
 
-LunaVPN takes pride in offering a unique and premium VPN experience, and here's why our pricing may be slightly higher:
+LunaVPN takes pride in offering a unique and premium [VPN experience](/blog/2023-12-07-why-lunavpn-premium-features-justify-its-pricing/ "Why LunaVPN premium features justify it's pricing"), and here's why our pricing may appear slightly higher:
 
 1. **Dedicated VPN Servers:** Unlike many budget VPN providers, LunaVPN allocates a dedicated VPN server exclusively for each of our clients. This means you get a server configured in the cloud just for you, complete with unique IPv4 and IPv6 addresses and enhanced security through a Cloudflare DNS server. This dedicated approach ensures your web searches and routing are more secure and private.
 
@@ -90,7 +90,7 @@ At LunaVPN, we believe in transparency and clear communication with our users. I
 - LunaVPN reserves the right to suspend or terminate services, but rest assured, we'll provide you with reasonable notice before any such action is taken.
 - If applicable, any unused portion of your payment will be promptly refunded to you.
 
-For more comprehensive information, please refer to the LunaVPN [Acceptable Use Policy](/acceptable-use-policy/). Your satisfaction and trust are our top priorities.
+For more comprehensive information, please refer to the LunaVPN [Acceptable Use Policy](/acceptable-use-policy/ "LunaVPN Acceptable Use Policy"). Your satisfaction and trust are our top priorities.
 
 
 ## About LunaVPN
@@ -101,9 +101,9 @@ At LunaVPN, we take a different approach to IP addresses. Unlike traditional VPN
 
 Each LunaVPN subscription grants you access to dedicated VPN servers, configured just for you, based on the location you choose. This means you get a unique IPv4 and IPv6 address running a Cloudflare DNS server, adding an extra layer of security to your web searches and routing.
 
-Our server infrastructure is designed to be flexible, so we can provide as many new [IP addresses](https://en.wikipedia.org/wiki/IP_address) as needed to meet our users' demands, ensuring optimal performance and privacy.
+Our server infrastructure is designed to be flexible, so we can provide as many new [IP addresses](https://en.wikipedia.org/wiki/IP_address "Wikipedia article about IP Address") as needed to meet our users' demands, ensuring optimal performance and privacy.
 
-To explore the wide range of locations available with LunaVPN, please visit our [Locations](/locations/) page. Experience the freedom to choose and switch between our 32 global locations at any time during your subscription.
+To explore the wide range of locations available with LunaVPN, please visit our [Locations](/locations/ "LunaVPN Locations") page. Experience the freedom to choose and switch between our 32 global locations at any time during your subscription.
 
 LunaVPN offers you a VPN service that adapts to your needs, ensuring your online privacy and security are our top priorities.
 
@@ -127,9 +127,9 @@ Absolutely! LunaVPN is committed to ensuring the utmost safety and security for 
 
 - **WireGuard Technology:** LunaVPN utilises the powerful [WireGuard protocol](https://www.wireguard.com/protocol/ "WireGuard Protocol"), known for its efficiency and security, to enhance your online privacy.
 
-- **No Logs, Guaranteed:** LunaVPN strictly adheres to a [No Logs Policy](/no-logs-policy/). We do not retain any records of your online activities or connections, ensuring your complete privacy.
+- **No Logs, Guaranteed:** LunaVPN strictly adheres to a [No Logs Policy](/no-logs-policy/ "LunaVPN No Logs Policy"). We do not retain any records of your online activities or connections, ensuring your complete privacy.
 
-- **Private and Encrypted DNS:** Each server in our network employs private and encrypted DNS, including [Cloudflare DNS](https://www.cloudflare.com/dns/), further fortifying your online security.
+- **Private and Encrypted DNS:** Each server in our network employs private and encrypted DNS, including [Cloudflare DNS](https://www.cloudflare.com/dns/ "Cloudflare DNS"), further fortifying your online security.
 
 - **Perfect Forward Secrecy:** We have implemented perfect forward secrecy to protect your privacy against any potential future threats.
 
@@ -137,12 +137,12 @@ Our dedicated team of security experts continually enhances our network and apps
 
 ### Why Choose LunaVPN Over Other VPN Providers?
 
-LunaVPN operates a top-tier VPN network meticulously designed for speed and dependability. Experience [1TB](https://cordcuttersnews.com/what-does-1tb-of-internet-really-get-you/ "What is 1TB of data?") of data per 30 days and the freedom to select from servers across [numerous countries globally](/locations/). LunaVPN prides itself on offering unparalleled network performance and VPN applications that set industry standards. Still uncertain? LunaVPN offers a no-risk 30-day money-back guarantee with all our plans, allowing you to explore the finest VPN service available worry-free.
+LunaVPN operates a top-tier VPN network meticulously designed for speed and dependability. Experience [1TB](https://cordcuttersnews.com/what-does-1tb-of-internet-really-get-you/ "What is 1TB of data?") of data per 30 days and the freedom to select from servers across [numerous countries globally](/locations/ "LunaVPN Locations"). LunaVPN prides itself on offering unparalleled network performance and VPN applications that set industry standards. Still uncertain? LunaVPN offers a no-risk 30-day money-back guarantee with all our plans, allowing you to explore the finest VPN service available worry-free.
 
 
 ### Curious about LunaVPN's Terms of Service?
 
-Explore LunaVPN's [Acceptable Use Policy](/acceptable-use-policy/) to learn more about our company and policies.
+Explore LunaVPN's [Acceptable Use Policy](/acceptable-use-policy/ "LunaVPN Acceptable Use Policy") to learn more about our company and policies.
 
 
 ## Using LunaVPN
@@ -159,20 +159,20 @@ To access your LunaVPN account, follow these steps:
 
 4. Click the "Sign In" button to access your account.
 
-If you don't have a LunaVPN account yet, you can [sign up here](/sign-up/) to get started. We support three major currencies: [USD &#36;](/usd/) 🇺🇸, [EUR &#8364;](/eur/) 🇪🇺, and [GBP &#163;](/gbp/) 🇬🇧.
+If you don't have a LunaVPN account yet, you can [sign up here](/sign-up/ "LunaVPN Signup Page") to get started. We support three major currencies: [USD &#36;](/usd/ "USD Payment page") 🇺🇸, [EUR &#8364;](/eur/ "EUR Payment page") 🇪🇺, and [GBP &#163;](/gbp/ "GBP Payment page") 🇬🇧.
 
 ### How to Install LunaVPN with WireGuard
 
 To install LunaVPN using WireGuard, follow these steps:
 
 1. **Access Your LunaVPN Account:**
-   - Go to [LunaVPN Portal](https://portal.lunavpn.co/).
+   - Go to [LunaVPN Portal](https://portal.lunavpn.co/ "LunaVPN Portal").
    - Log in using your username and password.
 
 2. **Download WireGuard:**
    - You can download the WireGuard client for your device from either of the following options:
-     - From the [LunaVPN Portal](https://portal.lunavpn.co/download-client/).
-     - Visit the [Downloads Page](https://your-website.com/downloads/) on our website.
+     - From the [LunaVPN Portal](https://portal.lunavpn.co/download-client/ "LunaVPN Portal WireGuard download client page").
+     - Visit the [Downloads Page](/downloads/ "WireGuard download client page") on our website.
 
 3. **Import LunaVPN Configuration:**
    - From the Dashboard, click on your VPN instance.
@@ -184,13 +184,13 @@ To install LunaVPN using WireGuard, follow these steps:
 5. **Enjoy Enhanced Privacy and Security:**
    - LunaVPN with WireGuard is now installed on your device, providing you with increased privacy and security while browsing the internet.
 
-If you require assistance, please reach out via the [Contact Us](/contact/ "Contact Us") page.
+If you require assistance, please reach out via the [Contact Us](/contact/ "LunaVPN Contact") page.
 
 ### Why doesn’t the WireGuard desktop app automatically update?
 
-Auto-update is available for the WireGuard app on [Android](/android-automatic-updates/) and [iOS](/ios-automatic-updates/). However, for the WireGuard desktop app, including versions for Windows, Mac, and Linux, auto-update is not enabled by default.
+Auto-update is available for the WireGuard app on [Android](/android-automatic-updates/ "Instructions to automatically update Android apps") and [iOS](/ios-automatic-updates/ "Instructions to automatically update iOS apps"). However, for the WireGuard desktop app, including versions for Windows, Mac, and Linux, auto-update is not enabled by default.
 
-If you want your WireGuard desktop app to update automatically, please check the settings within the app to enable auto-updates. You can also manually download the latest version of the WireGuard desktop apps from their [official website](https://www.wireguard.com/install/).
+If you want your WireGuard desktop app to update automatically, please check the settings within the app to enable auto-updates. You can also manually download the latest version of the WireGuard desktop apps from their [official website](https://www.wireguard.com/install/ "WireGuard homepage").
 
 If you encounter any issues with auto-updates or need further assistance, please refer to the WireGuard Support Team for help.
 
@@ -198,7 +198,7 @@ If you encounter any issues with auto-updates or need further assistance, please
 
 At LunaVPN, we prioritise your privacy and choice. By default, we do not contact our customers to notify them of new releases. We believe in giving you control over updates, and you must opt-in to receive notifications about new versions.
 
-To download the latest version of the LunaVPN app, please visit [our website](/downloads/) and manually check for updates. This approach ensures that you have full control over the update process, allowing you to choose when to upgrade your app.
+To download the latest version of the LunaVPN app, please visit [our website](/downloads/ "WireGuard download client page") and manually check for updates. This approach ensures that you have full control over the update process, allowing you to choose when to upgrade your app.
 
 We appreciate your understanding and commitment to maintaining your privacy with LunaVPN.
 
@@ -208,7 +208,7 @@ LunaVPN offers you the flexibility to choose the specific city from which you wa
 
 Here's how it works:
 
-1. **Access the LunaVPN Portal:** Log in to your LunaVPN account at [portal.lunavpn.co](https://portal.lunavpn.co).
+1. **Access the LunaVPN Portal:** Log in to your LunaVPN account at [portal.lunavpn.co](https://portal.lunavpn.co "LunaVPN Portal").
 
 2. **Select Your Preferred Location:** Once logged in, you can choose the city or location for your LunaVPN server deployment. We provide a wide range of options, so you can select the one that best suits your needs.
 
@@ -226,9 +226,9 @@ We do not throttle service. Throttling is typically done by your ISP when you vi
 
 ### LunaVPN Data Transfer Exceeded
 
-At LunaVPN, we provide a generous monthly data transfer limit of 1 terabyte (TB) per 30 days of subscription. This should be sufficient for the majority of users. However, in the event that you require more data than this limit allows, please don't hesitate to [reach out to us](/contact/).
+At LunaVPN, we provide a generous monthly data transfer limit of 1 terabyte (TB) per 30 days of subscription. This should be sufficient for the majority of users. However, in the event that you require more data than this limit allows, please don't hesitate to [reach out to us](/contact/ "LunaVPN Contact").
 
-If you reach the 1TB data transfer limit before your subscription period ends, your LunaVPN service will be suspended for the remainder of that month. Should you require additional data, please [contact us](/contact/), and we'll be happy to assist you with your specific needs.
+If you reach the 1TB data transfer limit before your subscription period ends, your LunaVPN service will be suspended for the remainder of that month. Should you require additional data, please [contact us](/contact/ "LunaVPN Contact"), and we'll be happy to assist you with your specific needs.
 
 
 ## Technical Support
@@ -237,4 +237,4 @@ If you reach the 1TB data transfer limit before your subscription period ends, y
 
 If you have any additional questions or if you encounter any issues, don't hesitate to reach out to the LunaVPN Support Team. Our dedicated team is here to assist you.
 
-You can also create a support ticket via the portal or the [contact](/contact/) page.
+You can also create a support ticket via the portal or the [contact](/contact/ "LunaVPN Contact") page.

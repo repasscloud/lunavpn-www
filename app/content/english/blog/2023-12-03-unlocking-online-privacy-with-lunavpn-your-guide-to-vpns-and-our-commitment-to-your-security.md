@@ -2,7 +2,7 @@
 title: "Unlocking Online Privacy with LunaVPN: Your Guide to VPNs and Our Commitment to Your Security"
 meta_title: "Unlocking Online Privacy with LunaVPN: A Comprehensive Guide to VPNs and Security"
 description: "Explore the world of VPNs with LunaVPN, your privacy partner. Discover the benefits of LunaVPN and how it enhances your online security and privacy."
-date: 2023-12-03T11:12:00Z
+date: 2023-12-03T11:11:00Z
 image: "/images/blog_posts/being-watched-security-vs-privacy.png"
 categories: ["Technology", "Security"]
 author: "Danijel Wynyard"

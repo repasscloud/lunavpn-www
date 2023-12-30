@@ -2,7 +2,7 @@
 title: "LunaVPN's Choice: WireGuard Protocol for Unbeatable Security and Speed"
 meta_title: "Why LunaVPN Prefers WireGuard: Unveiling the Future of VPN Protocols"
 description: "Discover why LunaVPN has chosen WireGuard as its preferred protocol and how it outshines OpenVPN in terms of security, speed, and efficiency. Explore the future of VPN technology with LunaVPN."
-date: 2023-12-01T05:44:00Z
+date: 2023-12-01T11:11:00Z
 image: "/images/blog_posts/WireGuard-vs-openvpn.png"
 categories: ["WireGuard", "Security", "Technology"]
 author: "Danijel Wynyard"

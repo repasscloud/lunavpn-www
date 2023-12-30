@@ -47,7 +47,10 @@ _Follow these steps to cancel your subscription to LunaVPN. These instructions p
 
 1. **Access the Portal**: Visit [portal.lunavpn.co](https://portal.lunavpn.co "LunaVPN Portal").
 
-2. **Billing History**: Select 'Billing History' in your account settings.
+2. **Billing History**: 
+   - On desktop: Select 'Billing History' in the navigation bar on the left.
+   - On mobile: Select 'Billing History' from the menu.
+
 
 3. **Email Verification**: Enter your registered email address.
 

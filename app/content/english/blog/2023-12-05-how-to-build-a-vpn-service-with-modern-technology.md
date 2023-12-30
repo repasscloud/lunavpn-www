@@ -2,7 +2,7 @@
 title: "How to Build a VPN Service with Modern Technology"
 meta_title: "Building a VPN Service with Modern Technology"
 description: "Discover why we chose cutting-edge technologies like .NET, WireGuard, Docker, and more to build our VPN service."
-date: 2023-12-05T11:22:00Z
+date: 2023-12-05T11:11:00Z
 image: "/images/blog_posts/lunavpn-technology-stack.png"
 categories: ["Technology", "Security"]
 author: "Danijel Wynyard"
@@ -60,4 +60,4 @@ Docker acts as the conductor of your VPN orchestra. It orchestrates the various 
 
 Maintaining the security of our VPN service is an ongoing process. We implement a robust CICD pipeline to deploy the latest security patches and updates as they become available. This proactive approach ensures that our VPN service remains resilient to emerging threats.
 
-[CICD](https://www.redhat.com/en/topics/devops/what-is-ci-cd "Red Hat CICD article") is like the vigilant guardian of your VPN fortress, constantly patrolling the walls and strengthening
+[CICD](https://www.redhat.com/en/topics/devops/what-is-ci-cd "Red Hat CICD article") is like the vigilant guardian of your VPN fortress, constantly patrolling the walls, strengthening defenses, and ensuring that your online activities remain safe and secure.

@@ -22,10 +22,6 @@ echo "Text replacement complete."
 # Generate sitemap.xml
 python3 gen-sitemap.py
 
-# Run Nginx container
-docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
-echo "Runs on http://localhost:80/"
-
 # Replace docs
 rm -rf ./docs
 mkdir docs
@@ -33,6 +29,33 @@ cp -r app/public/* ./docs/
 mkdir -p ./docs/.well-known
 cp ./apple-developer-merchantid-domain-association ./docs/.well-known/apple-developer-merchantid-domain-association
 cp ./LunaVPN-Auth0-Logo.png ./docs/images/LunaVPN-Auth0-Logo.png
+mkdir -p ./docs/images/faq-articles
+
+# Update all offline images with webp
+cp -r app/assets/images/faq-articles/* ./docs/images/faq-articles/
+#!/bin/bash
+
+# Directory containing the PNG files
+DIR="./docs/images/faq-articles"
+
+# Loop through each .png file in the specified directory
+for i in "$DIR"/*.png; do
+    # Skip if directory is empty
+    [ -e "$i" ] || continue
+
+    # Get the base file name without the path and the extension
+    base=$(basename "$i" .png)
+
+    # Output file with .webp extension
+    output="$DIR/$base.webp"
+
+    # Convert the file
+    cwebp "$i" -o "$output"
+done
+
+# Run Nginx container
+docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name nginx nginx
+echo "Runs on http://localhost:80/"
 
 # Update gh-repo
 # git add .

@@ -2,7 +2,7 @@
 title: "Why Using Tor with LunaVPN Is Not Recommended: A Privacy and Security Perspective"
 meta_title: "Tor and LunaVPN: A Privacy and Security Perspective"
 description: "Explore the reasons why LunaVPN advises against using Tor in conjunction with its services and learn about our commitment to online privacy."
-date: 2023-12-11T11:20:00Z
+date: 2023-12-11T11:11:00Z
 image: "/images/blog_posts/lunavpn-tor-security.png"
 categories: ["Technology", "Security"]
 author: "Danijel Wynyard"
