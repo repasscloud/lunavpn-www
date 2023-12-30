@@ -16,4 +16,4 @@ Here are the steps you will go through:
 
 1. Open the App Store, type in **WireGuard** and download the WireGuard application
 
-![isowg01.png](/images/faq-articles/ioswg01.webp)
+<img src="/images/faq-articles/ioswg01.webp" alt="isowg01" width="277" height="509">
