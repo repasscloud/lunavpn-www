@@ -55,7 +55,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 3. Find the configuration file you've downloaded earlier and import it.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg078.webp" alt="isowg08" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg08.webp" alt="isowg08" width="322" height="698">
 
 4. In the next pop-up, iOS will show a **"WireGuard" Would Like to Add VPN Configurations"** security prompt. Tap **Allow** button.
 
