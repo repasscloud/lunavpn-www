@@ -59,7 +59,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 4. In the next pop-up, iOS will show a **"WireGuard" Would Like to Add VPN Configurations"** security prompt. Tap **Allow** button.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg09.webp" alt="isowg09" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg09.webp" alt="isowg09" width="322" height="698" style="border: 2px solid black;">
 
 5. If requested, **Enter iPOhone password** to enable iOS to **Add VPN Configurations** to your iOS device.
 
