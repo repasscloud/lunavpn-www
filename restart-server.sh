@@ -58,6 +58,6 @@ docker run --rm -d -p 80:80 -v $(pwd)/app/public:/usr/share/nginx/html --name ng
 echo "Runs on http://localhost:80/"
 
 # Update gh-repo
-git add .
-git commit -m 'server restart'
-git push
+# git add .
+# git commit -m 'server restart'
+# git push

@@ -13,6 +13,7 @@ Have questions? Find answers here!
 
 **Looking for real-time support?** Don't hesitate to [reach out to our LunaVPN Support Team for further assistance](/contact/ "LunaVPN Contact").
 
+
 {{< toc >}}
 
 
@@ -163,28 +164,22 @@ If you don't have a LunaVPN account yet, you can [sign up here](/sign-up/ "LunaV
 
 ### How to Install LunaVPN with WireGuard
 
-To install LunaVPN using WireGuard, follow these steps:
+Experience the seamless integration of LunaVPN and WireGuard by following our tailored installation guides for your specific device or computer system. Select the guide that corresponds to your needs:
 
-1. **Access Your LunaVPN Account:**
-   - Go to [LunaVPN Portal](https://portal.lunavpn.co/ "LunaVPN Portal").
-   - Log in using your username and password.
+- **iOS Users**: Navigate through the intricacies of setting up WireGuard on your iOS device with ease.  
+  [Setup WireGuard on iOS](/how-to-setup-wireguard-on-ios/ "How to Setup WireGuard on iOS")
 
-2. **Download WireGuard:**
-   - You can download the WireGuard client for your device from either of the following options:
-     - From the [LunaVPN Portal](https://portal.lunavpn.co/download-client/ "LunaVPN Portal WireGuard download client page").
-     - Visit the [Downloads Page](/downloads/ "WireGuard download client page") on our website.
+- **Android Enthusiasts**: Get WireGuard running smoothly on your Android device.  
+  [Setup WireGuard on Android](/how-to-setup-wireguard-on-android/ "How to Setup WireGuard on Android")
 
-3. **Import LunaVPN Configuration:**
-   - From the Dashboard, click on your VPN instance.
-   - Follow the instructions to import your WireGuard profile by scanning the QR code.
+- **Windows Users**: Follow these simple steps to install WireGuard on your Windows machine.  
+  [Setup WireGuard on Windows](/how-to-setup-wireguard-on-windows/ "How to Setup WireGuard on Windows")
 
-4. **Additional Instructions:**
-   - If there are any additional setup instructions, follow them as provided on the page.
-
-5. **Enjoy Enhanced Privacy and Security:**
-   - LunaVPN with WireGuard is now installed on your device, providing you with increased privacy and security while browsing the internet.
+- **macOS Users**: Integrate WireGuard on your macOS device with our detailed guide.  
+  [Setup WireGuard on macOS](/how-to-setup-wireguard-on-macos/ "How to Setup WireGuard on macOS")
 
 If you require assistance, please reach out via the [Contact Us](/contact/ "LunaVPN Contact") page.
+
 
 ### Why doesn’t the WireGuard desktop app automatically update?
 
@@ -194,9 +189,9 @@ If you want your WireGuard desktop app to update automatically, please check the
 
 If you encounter any issues with auto-updates or need further assistance, please refer to the WireGuard Support Team for help.
 
-### Why doesn’t my LunaVPN app notify me that a new version is available?
+### Why doesn’t LunaVPN notify me that a new version of WireGuard is available?
 
-At LunaVPN, we prioritise your privacy and choice. By default, we do not contact our customers to notify them of new releases. We believe in giving you control over updates, and you must opt-in to receive notifications about new versions.
+At LunaVPN, we prioritise your privacy and choice. By default, we do not contact our customers to notify them of new releases. We believe in giving you control over updates.
 
 To download the latest version of the LunaVPN app, please visit [our website](/downloads/ "WireGuard download client page") and manually check for updates. This approach ensures that you have full control over the update process, allowing you to choose when to upgrade your app.
 
@@ -233,8 +228,19 @@ If you reach the 1TB data transfer limit before your subscription period ends, y
 
 ## Technical Support
 
+### How Do I Know LunaVPN is Connected?
+
+To verify that LunaVPN is actively connected and functioning, you can perform a simple check:
+
+1. Visit [WhatIsMyIP.com](https://www.whatismyip.com/).
+2. Once the page loads, look for the text next to **"My IP Location:"** which is typically displayed in a green box.
+3. This IP location should reflect the VPN server location and not your actual physical location. If it does, it means LunaVPN is successfully connected and your internet traffic is being routed through the VPN.
+
+This check confirms that your internet connection is secured and anonymised through LunaVPN, ensuring your online activities are private.
+
 ### Have More Questions? Contact Our Support!
 
 If you have any additional questions or if you encounter any issues, don't hesitate to reach out to the LunaVPN Support Team. Our dedicated team is here to assist you.
 
-You can also create a support ticket via the portal or the [contact](/contact/ "LunaVPN Contact") page.
+You can also create a support ticket via [email](mailto:hello@lunavpn.co?subject=LunaVPN%20Support%20Request "Contact LunaVPN Support") or the [contact](/contact/ "LunaVPN Contact") page.
+

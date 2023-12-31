@@ -40,6 +40,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 <img src="https://lunavpn.co/images/faq-articles/portalwg03.webp" alt="portalwg03" width="246" height="244">
 
+
 ## Load Configuration File {#load-config-file}
 
 1. Once the Configuration File download is finished, open the WireGuard application and click on the **Import tunnel(s) from file** button to open the **Finder** window.

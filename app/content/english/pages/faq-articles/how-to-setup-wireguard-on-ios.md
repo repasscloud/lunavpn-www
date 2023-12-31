@@ -27,7 +27,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 ## Download Configuration File {#download-config-file}
 
-1. Open Safari, or any other browser on your iOS device, go to [portal.lunavpn.co](https://portal.lunavpn.co "LunaVPN Portal") and log into your account. You will land at the **Dashboard** view. Click on the **Info** button next to the VPN you want to download the **WireGuard Configuration File** for.
+1. Open Safari, or any other browser on your iOS device, go to [portal.lunavpn.co](https://portal.lunavpn.co "LunaVPN Portal") and log into your account. You will land at the **Dashboard** view. Click on the **Info** button next to the VPN Server you want to download the **WireGuard Configuration File** for.
 
 <img src="https://lunavpn.co/images/faq-articles/ioswg02.webp" alt="isowg02" width="322" height="698" style="border: 2px solid black;">
 
@@ -42,6 +42,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 4. If you are using Safari, a download confirmation dialog will appear. Click on the blue **Download** text Your iOS device will download the WireGuard Configuration File to your mobile **Downloads** folder. This will be used with the WireGuard application from the [iOS App Store](https://apps.apple.com/us/app/wireguard/id1441195209 "WireGuard on AppStore").
 
 <img src="https://lunavpn.co/images/faq-articles/ioswg05.webp" alt="isowg05" width="322" height="698" style="border: 2px solid black;">
+
 
 ## Load Configuration File {#load-config-file}
 

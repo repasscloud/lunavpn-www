@@ -26,7 +26,6 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 <img src="https://lunavpn.co/images/faq-articles/Androidwg01.webp" alt="isowg01" width="277" height="509">
 
 
-
 ## Download Configuration File {#download-config-file}
 
 1. Open any browser on your Android device, go to [portal.lunavpn.co](https://portal.lunavpn.co "LunaVPN Portal") and log into your account. You will land at the **Dashboard** view. Tap on the **Info** button next to the VPN you want to download the **WireGuard Configuration File** for.
