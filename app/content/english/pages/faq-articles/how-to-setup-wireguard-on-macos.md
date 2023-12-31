@@ -60,7 +60,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 5. Lastly, to connect or disconnect from the WireGuard VPN quickly, the WireGuard logo will appear in the **Menu Bar** across the top of the screen.
 
-<img src="https://lunavpn.co/images/faq-articles/macwg06.webp" alt="macwg06" width="36" height="24">
+<img src="https://lunavpn.co/images/faq-articles/macwg06.webp" alt="macwg06" width="30" height="28">
 
 7. Select this icon and from the drop down menu, you can select which WireGuard VPN connection to enable or disable. The connected status will show on the first line of the drop down.
 
