@@ -74,3 +74,5 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 <img src="https://lunavpn.co/images/faq-articles/ioswg12.webp" alt="isowg12" width="322" height="698">
 
 8. Lastly, to confirm the VPN is connected anytime, swipe to see the **Control Center** and you will see the **VPN** icon at the top of the screen.
+
+<img src="https://lunavpn.co/images/faq-articles/ioswg13.webp" alt="isowg13" width="322" height="698">
