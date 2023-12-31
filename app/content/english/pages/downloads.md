@@ -8,7 +8,7 @@ draft: false
 
 ## Download WireGuard Client
 
-WireGuard&reg;: LunaVPN's high-speed, secure VPN protocol. <a href="https://www.wireguard.com/" target="_blank">Wireguard</a>&reg; offers simplicity, speed, and advanced encryption.
+WireGuard&reg;: LunaVPN's high-speed, secure VPN protocol. <a href="https://www.wireguard.com/" target="_blank">WireGuard</a>&reg; offers simplicity, speed, and advanced encryption.
 
 Choose your platform below to download Wireguard for LunaVPN.
 
@@ -25,7 +25,7 @@ Choose your platform below to download Wireguard for LunaVPN.
         </a>
     </div>
     <div class="p-4 bg-gray-0 text-center">
-        <a href="https://apps.apple.com/us/app/wireguard/id1441195209" target="_blank">
+        <a href="https://itunes.apple.com/us/app/wireguard/id1441195209" target="_blank">
             <div class="rounded-full bg-white p-2">
                 <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/main/app/assets/images/fa-icons/app-store-ios.svg"
                     alt="WireGuard on iOS"
@@ -47,10 +47,10 @@ Choose your platform below to download Wireguard for LunaVPN.
         </a>
     </div>
     <div class="p-4 bg-gray-0 text-center">
-        <a href="https://itunes.apple.com/us/app/wireguard/id1441195209?ls=1&mt=8" target="_blank">
+        <a href="https://apps.apple.com/au/app/wireguard/id1451685025" target="_blank">
             <div class="rounded-full bg-white p-2">
                 <img src="https://raw.githubusercontent.com/repasscloud/lunavpn-www/main/app/assets/images/fa-icons/app-store.svg"
-                    alt="WireGuard on Ubuntu"
+                    alt="WireGuard on macOS"
                     style="height: 60px;"
                 >
             </div>
