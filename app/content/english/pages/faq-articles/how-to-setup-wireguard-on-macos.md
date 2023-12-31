@@ -23,7 +23,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 1. Open the **AppStore**, and search for **WireGuard&reg;** and download the WireGuard application or click [this link](https://apps.apple.com/au/app/wireguard/id1451685025 "WireGuard on macOS AppStore") to go directly there. Press on **Install** to download and install the application.
 
-<img src="https://lunavpn.co/images/faq-articles/macwg01.webp" alt="isowg01" width="277" height="509">
+<img src="https://lunavpn.co/images/faq-articles/macwg01.webp" alt="isowg01" width="556" height="378">
 
 
 ## Download Configuration File {#download-config-file}
