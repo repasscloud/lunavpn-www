@@ -22,40 +22,40 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 ## Install WireGuard on iOS {#install-wireguard}
 
 1. Open the App Store, type in **WireGuard** and download the WireGuard application or click [this link](https://apps.apple.com/us/app/wireguard/id1441195209 "WireGuard on AppStore") to go directly there.
-<img src="https://lunavpn.co/images/faq-articles/ioswg01.webp" alt="isowg01" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg01.webp" alt="isowg01" width="322" height="698" style="border: 2px solid black;">
 
 
 ## Download Configuration File {#download-config-file}
 
 1. Open Safari, or any other browser on your iOS device, go to [portal.lunavpn.co](https://portal.lunavpn.co "LunaVPN Portal") and log into your account. You will land at the **Dashboard** view. Click on the **Info** button next to the VPN you want to download the **WireGuard Configuration File** for.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg02.webp" alt="isowg02" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg02.webp" alt="isowg02" width="322" height="698" style="border: 2px solid black;">
 
 2. Tap on **Details** to show the configuration of the WireGuard VPN Server.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg03.webp" alt="isowg03" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg03.webp" alt="isowg03" width="322" height="698" style="border: 2px solid black;">
 
 3. The WireGuard configuration window will display. Tap the blue **Download Config** button. 
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg04.webp" alt="isowg04" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg04.webp" alt="isowg04" width="322" height="698" style="border: 2px solid black;">
 
 4. If you are using Safari, a download confirmation dialog will appear. Click on the blue **Download** text Your iOS device will download the WireGuard Configuration File to your mobile **Downloads** folder. This will be used with the WireGuard application from the [iOS App Store](https://apps.apple.com/us/app/wireguard/id1441195209 "WireGuard on AppStore").
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg05.webp" alt="isowg05" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg05.webp" alt="isowg05" width="322" height="698" style="border: 2px solid black;">
 
 ## Load Configuration File {#load-config-file}
 
 1. Once the Configuration File download is finished, open the **WireGuard** application and select **Add a tunnel**.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg06.webp" alt="isowg06" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg06.webp" alt="isowg06" width="322" height="698" style="border: 2px solid black;">
 
 2. A dialog box appears. Tap on the ***Create from file or archive** option.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg07.webp" alt="isowg07" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg07.webp" alt="isowg07" width="322" height="698" style="border: 2px solid black;">
 
 3. Find the configuration file you've downloaded earlier and import it.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg08.webp" alt="isowg08" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg08.webp" alt="isowg08" width="322" height="698" style="border: 2px solid black;">
 
 4. In the next pop-up, iOS will show a **"WireGuard" Would Like to Add VPN Configurations"** security prompt. Tap **Allow** button.
 
@@ -63,16 +63,16 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 5. If requested, **Enter iPOhone password** to enable iOS to **Add VPN Configurations** to your iOS device.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg10.webp" alt="isowg10" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg10.webp" alt="isowg10" width="322" height="698" style="border: 2px solid black;">
 
 6. To connect or disconnect from the VPN, toggle the button next to the location.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg11.webp" alt="isowg11" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg11.webp" alt="isowg11" width="322" height="698" style="border: 2px solid black;">
 
 7. You can confirm the VPN is connected, by the visible **VPN** icon that appears at the top of the screen for a few seconds.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg12.webp" alt="isowg12" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg12.webp" alt="isowg12" width="322" height="698" style="border: 2px solid black;">
 
 8. Lastly, to confirm the VPN is connected anytime, swipe to see the **Control Center** and you will see the **VPN** icon at the top of the screen.
 
-<img src="https://lunavpn.co/images/faq-articles/ioswg13.webp" alt="isowg13" width="322" height="698">
+<img src="https://lunavpn.co/images/faq-articles/ioswg13.webp" alt="isowg13" width="322" height="698" style="border: 2px solid black;">
