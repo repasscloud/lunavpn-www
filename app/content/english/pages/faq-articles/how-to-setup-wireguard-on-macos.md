@@ -23,7 +23,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 1. Open the **AppStore**, and search for **WireGuard&reg;** and download the WireGuard application or click [this link](https://apps.apple.com/au/app/wireguard/id1451685025 "WireGuard on macOS AppStore") to go directly there. Press on **Install** to download and install the application.
 
-<img src="https://lunavpn.co/images/faq-articles/Androidwg01.webp" alt="isowg01" width="277" height="509">
+<img src="https://lunavpn.co/images/faq-articles/macwg01.webp" alt="isowg01" width="277" height="509">
 
 
 ## Download Configuration File {#download-config-file}
@@ -42,14 +42,26 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 ## Load Configuration File {#load-config-file}
 
-1. Once the Configuration File download is finished, open the WireGuard application and press **+** at the bottom right of the screen. Tap on the **Import from file or archive** option to continue.
+1. Once the Configuration File download is finished, open the WireGuard application and click on the **Import tunnel(s) from file** button to open the **Finder** window.
 
-<img src="https://lunavpn.co/images/faq-articles/Androidwg02.webp" alt="isowg02" width="277" height="509">
+<img src="https://lunavpn.co/images/faq-articles/macwg02.webp" alt="macwg02" width="456" height="322">
 
-2. Select the configuration file you've downloaded earlier. Select it to import it.
+2. Select the configuration file you've downloaded earlier. Select it to import it. Click on **Allow** on the pop up notification with **"WireGuard" Would Like to Add VPN Configurations** to enable WireGuard to add the VPN configuration.
 
-<img src="https://lunavpn.co/images/faq-articles/Androidwg03.webp" alt="isowg02" width="277" height="509">
+<img src="https://lunavpn.co/images/faq-articles/macwg03.webp" alt="macwg03" width="372" height="346">
 
-3. Lastly, to connect or disconnect from the VPN, toggle the button next to the location.
+3. The configuration will now be loaded into the WireGuard application. Click on the **Activate** button to enable WireGuard VPN connection.
 
-<img src="https://lunavpn.co/images/faq-articles/Androidwg05.webp" alt="isowg02" width="277" height="246">
+<img src="https://lunavpn.co/images/faq-articles/macwg04.webp" alt="macwg04" width="456" height="322">
+
+4. The WireGuard connection will show **Status** as **Active** with a green dot. To disable the WireGuard VPN click on the **Deactivate** button.
+
+<img src="https://lunavpn.co/images/faq-articles/macwg05.webp" alt="macwg05" width="456" height="322">
+
+5. Lastly, to connect or disconnect from the WireGuard VPN quickly, the WireGuard logo will appear in the **Menu Bar** across the top of the screen.
+
+<img src="https://lunavpn.co/images/faq-articles/macwg06.webp" alt="macwg06" width="36" height="24">
+
+7. Select this icon and from the drop down menu, you can select which WireGuard VPN connection to enable or disable. The connected status will show on the first line of the drop down.
+
+<img src="https://lunavpn.co/images/faq-articles/macwg07.webp" alt="macwg07" width="241" height="221">
