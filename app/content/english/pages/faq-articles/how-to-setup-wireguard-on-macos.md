@@ -36,7 +36,7 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 <img src="https://lunavpn.co/images/faq-articles/portalwg02.webp" alt="portalwg02" width="367" height="243">
 
-3. The WireGuard configuration window will display. Click the blue **Download Config** button. Your browser will normally save your WireGuard Configuration File to your **Downloads** folder. This will be used with teh WireGuard app from the [macOS AppStore](https://apps.apple.com/au/app/wireguard/id1451685025?mt=12 "macOS AppStore Link to WireGuard").
+3. The WireGuard configuration window will display. Click the blue **Download Config** button. Your browser will normally save your WireGuard Configuration File to your **Downloads** folder. This will be used with the WireGuard app from the [macOS AppStore](https://apps.apple.com/au/app/wireguard/id1451685025?mt=12 "macOS AppStore Link to WireGuard").
 
 <img src="https://lunavpn.co/images/faq-articles/portalwg03.webp" alt="portalwg03" width="246" height="244">
 

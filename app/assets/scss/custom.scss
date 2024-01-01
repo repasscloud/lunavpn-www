@@ -1,1 +1,11 @@
 // Add your own custom styles here
+.svg-container {
+    display: flex;
+    justify-content: center; // Center the SVGs horizontally
+    align-items: center; // Center the SVGs vertically
+}
+
+/* Add any additional styling for the individual SVGs if needed */
+.svg-container svg {
+    margin: 0 5px; // Adjust the margin to control spacing between the SVGs
+}

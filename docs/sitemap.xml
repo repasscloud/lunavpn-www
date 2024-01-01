@@ -316,20 +316,6 @@
     <author>repasscloud</author>
   </url>
   <url>
-    <loc>https://lunavpn.co/elements/index.html</loc>
-    <title>Elements</title>
-    <description>This is meta description</description>
-    <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
-    <author>repasscloud</author>
-  </url>
-  <url>
-    <loc>https://lunavpn.co/how-to-setup-wireguard-on-ios-with-computer/index.html</loc>
-    <title>How to setup WireGuard connection on iOS with Computer</title>
-    <description>In this article, you will learn how to set up a WireGuard connection on your iOS device with a computer.</description>
-    <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
-    <author>repasscloud</author>
-  </url>
-  <url>
     <loc>https://lunavpn.co/thankyou-for-subscribing/index.html</loc>
     <title>Subscription Successful - LunaVPN</title>
     <description>This page confirms the successful subscription to LunaVPN.</description>
@@ -359,8 +345,8 @@
   </url>
   <url>
     <loc>https://lunavpn.co/how-to-setup-wireguard-on-windows/index.html</loc>
-    <title>LunaVPN.co</title>
-    <description>LunaVPN is a leading VPN service provider dedicated to safeguarding your online privacy and security. With a focus on fast and secure connections, LunaVPN offers a range of VPN servers across the globe. Our no-logging policy ensures your data remains private, and our Wireguard protocol guarantees high-speed, reliable performance. Experience online freedom and peace of mind with LunaVPN.</description>
+    <title>How to setup WireGuard connection on Windows</title>
+    <description>In this article, you will learn how to set up a WireGuard connection on your Windows computer.</description>
     <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
     <author>repasscloud</author>
   </url>
@@ -396,6 +382,13 @@
     <loc>https://lunavpn.co/android-automatic-updates/index.html</loc>
     <title>Downloads</title>
     <description>You can update your Android apps and the Play Store app one at a time, all together, or automatically. Updating your apps to the latest version gives you access to the latest features and improves app security and stability.</description>
+    <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
+    <author>repasscloud</author>
+  </url>
+  <url>
+    <loc>https://lunavpn.co/detailed-cancellation-instructions/index.html</loc>
+    <title>LunaVPN Subscription Cancellation Instructions</title>
+    <description>Learn how to cancel your LunaVPN subscription with these step-by-step instructions. We'll guide you through the process to ensure a smooth cancellation experience.</description>
     <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
     <author>repasscloud</author>
   </url>
@@ -459,6 +452,13 @@
     <loc>https://lunavpn.co/how-to-setup-wireguard-on-macos/index.html</loc>
     <title>How to setup WireGuard connection on macOS</title>
     <description>In this article, you will learn how to set up a WireGuard connection on your macOS computer.</description>
+    <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
+    <author>repasscloud</author>
+  </url>
+  <url>
+    <loc>https://lunavpn.co/wireguard-setup-instructions/index.html</loc>
+    <title>WireGuard Setup Instructions</title>
+    <description>Learn how to set up WireGuard on your preferred device and operating system. Follow these step-by-step instructions to configure LunaVPN with WireGuard for a secure and fast VPN experience.</description>
     <keywords>VPN Service,Online Privacy,Internet Security,VPN Provider,Secure VPN,Fast VPN,LunaVPN,VPN Australia,Private Browsing,VPN Connection,Wireguard VPN,No-Logging VPN,VPN Server,Data Encryption,Anonymous Browsing</keywords>
     <author>repasscloud</author>
   </url>

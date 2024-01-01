@@ -8,7 +8,7 @@ draft: false
 
 Have questions? Find answers here!
 
-- Need **assistance with LunaVPN setup on your device?** Explore our comprehensive setup tutorials.
+- Need **assistance with LunaVPN setup on your device?** Explore our comprehensive setup tutorials [here](/wireguard-setup-instructions/ "WireGuard setup instructions").
 - Encountering **issues while using LunaVPN on your device?** Check out our troubleshooting guides.
 
 **Looking for real-time support?** Don't hesitate to [reach out to our LunaVPN Support Team for further assistance](/contact/ "LunaVPN Contact").
@@ -36,7 +36,23 @@ LunaVPN is your versatile digital companion. With LunaVPN, you can:
 
 ### Flexible Subscription Plans at LunaVPN
 
-LunaVPN offers a variety of subscription plans, including 30-day, 180-day, and 1-year options. You can select the plan that aligns with your requirements. Should you opt to cancel your subscription before its completion, reach out to us, and we'll provide a prorated refund based on the remaining days of your plan. We value flexibility and want to ensure you have complete control over your LunaVPN experience.
+LunaVPN offers a variety of subscription plans to cater to your needs:
+
+- **30-Day Plan**: Perfect for short-term use.
+- **180-Day Plan**: Ideal for those who want a longer commitment.
+- **1-Year Plan**: The best value for extended protection.
+
+You have the freedom to choose the plan that aligns with your requirements. We understand that circumstances may change, and we want to ensure you have control over your LunaVPN experience.
+
+#### Cancellation Policy
+
+If you ever need to cancel your subscription, we have a dedicated [Cancellation Policy](/cancellation-policy/ "LunaVPN Cancellation Policy") in place to provide you with all the necessary information.
+
+#### Cancellation Steps
+
+To make the cancellation process as seamless as possible, we've outlined the [steps to cancel your subscription](/detailed-cancellation-instructions/ "LunaVPN Cancellation Instructions") on a dedicated page. If you decide to cancel before your plan's completion, don't hesitate to reach out to us. We're here to assist you and provide a prorated refund based on the remaining days of your plan.
+
+At LunaVPN, we value flexibility and want to ensure you have a hassle-free experience throughout your subscription journey.
 
 ### What's Included in Your LunaVPN Subscription?
 
@@ -58,7 +74,7 @@ Experience the future of online privacy and security with LunaVPN. Your digital 
 
 ### Want to Cancel Your Subscription?
 
-If you'd like to cancel your LunaVPN subscription, please refer to our cancellation instructions [here](/cancellation-policy/ "LunaVPN Cancellation Policy and Instructions").
+If you'd like to cancel your LunaVPN subscription, please refer to our cancellation instructions [here](/detailed-cancellation-instructions/ "LunaVPN Cancellation Instructions").
 
 ### Is There a Lifetime Subscription Option for LunaVPN?
 
@@ -224,6 +240,33 @@ We do not throttle service. Throttling is typically done by your ISP when you vi
 At LunaVPN, we provide a generous monthly data transfer limit of 1 terabyte (TB) per 30 days of subscription. This should be sufficient for the majority of users. However, in the event that you require more data than this limit allows, please don't hesitate to [reach out to us](/contact/ "LunaVPN Contact").
 
 If you reach the 1TB data transfer limit before your subscription period ends, your LunaVPN service will be suspended for the remainder of that month. Should you require additional data, please [contact us](/contact/ "LunaVPN Contact"), and we'll be happy to assist you with your specific needs.
+
+
+## Payment Processing with Stripe
+
+At LunaVPN, we prioritize secure and efficient payment processing. That's why we've chosen Stripe as our trusted payment processor. Stripe is a leading online payment platform known for its reliability and security.
+
+### Stripe Climate 1% Contribution
+
+We are proud to be a member of the <a href="https://climate.stripe.com/B5BiSH" title="Stripe Climate 1% Contribution for RePass Cloud" target="_blank"> Stripe Climate 1% <span style="vertical-align: middle; display: inline-block;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="24" height="24">
+      <linearGradient id="StripeClimate-gradient-a" gradientUnits="userSpaceOnUse" x1="16" y1="20.6293" x2="16" y2="7.8394" gradientTransform="matrix(1 0 0 -1 0 34)">
+        <stop offset="0" stop-color="#00d924"/>
+        <stop offset="1" stop-color="#00cb1b"/>
+      </linearGradient>
+      <path d="M0 10.82h32c0 8.84-7.16 16-16 16s-16-7.16-16-16z" fill="url(#StripeClimate-gradient-a)"/>
+      <linearGradient id="StripeClimate-gradient-b" gradientUnits="userSpaceOnUse" x1="24" y1="28.6289" x2="24" y2="17.2443" gradientTransform="matrix(1 0 0 -1 0 34)">
+        <stop offset=".1562" stop-color="#009c00"/>
+        <stop offset="1" stop-color="#00be20"/>
+      </linearGradient>
+      <path d="M32 10.82c0 2.21-1.49 4.65-5.41 4.65-3.42 0-7.27-2.37-10.59-4.65 3.52-2.43 7.39-5.63 10.59-5.63C29.86 5.18 32 8.17 32 10.82z" fill="url(#StripeClimate-gradient-b)"/>
+      <linearGradient id="StripeClimate-gradient-c" gradientUnits="userSpaceOnUse" x1="8" y1="16.7494" x2="8" y2="29.1239" gradientTransform="matrix(1 0 0 -1 0 34)">
+        <stop offset="0" stop-color="#ffe37d"/>
+        <stop offset="1" stop-color="#ffc900"/>
+      </linearGradient>
+      <path d="M0 10.82c0 2.21 1.49 4.65 5.41 4.65 3.42 0 7.27-2.37 10.59-4.65-3.52-2.43-7.39-5.64-10.59-5.64C2.14 5.18 0 8.17 0 10.82z" fill="url(#StripeClimate-gradient-c)"/>
+    </svg>
+  </span></a>&nbsp;contribution scheme. This means that 1% of our <a href="https://stripe.com/" title="Stripe homepage">Stripe</a> transactions go toward funding initiatives that combat climate change. By choosing LunaVPN, you're not only getting exceptional VPN services but also supporting efforts to make the world a greener place.
 
 
 ## Technical Support
