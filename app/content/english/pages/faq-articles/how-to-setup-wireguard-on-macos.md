@@ -63,6 +63,6 @@ For any LunaVPN provisioned WireGuard connection, you will need to have a Config
 
 <img src="https://lunavpn.co/images/faq-articles/macwg06.webp" alt="macwg06" width="30" height="28">
 
-7. Select this icon and from the drop down menu, you can select which WireGuard VPN connection to enable or disable. The connected status will show on the first line of the drop down.
+6. Select this icon and from the drop down menu, you can select which WireGuard VPN connection to enable or disable. The connected status will show on the first line of the drop down.
 
 <img src="https://lunavpn.co/images/faq-articles/macwg07.webp" alt="macwg07" width="241" height="221">
