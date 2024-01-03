@@ -14,7 +14,7 @@ draft: false
 
 We are excited to announce that LunaVPN is now live and open for business! We invite everyone to be a part of our program as we embark on this journey to provide top-notch VPN services to users around the world.
 
-As a token of our appreciation for your support, we are offering an exclusive 10% discount on our 1, 3, 6, and 12-month plans for the first 100 customers. To claim your discount, simply use the code **LAUNCH10** during checkout.
+As a token of our appreciation for your support, we are offering an exclusive 10% discount on our 1, 6, and 12-month plans for the first 100 customers. To claim your discount, simply use the code **LAUNCH10** during checkout.
 
 {{< image src="images/launch-code.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 

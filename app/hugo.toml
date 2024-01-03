@@ -6,7 +6,7 @@ title = "LunaVPN.co"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "UTC"
+timeZone = "Australia/Sydney"
 # post pagination
 paginate = 2 # see https://gohugo.io/extras/pagination/
 # post excerpt
