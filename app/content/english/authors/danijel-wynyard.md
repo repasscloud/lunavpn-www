@@ -2,7 +2,7 @@
 title: About Danijel Wynyard
 email: danijel@repasscloud.com
 image: "/images/avatar.png"
-description: this is meta description
+description: Danijel Wynyard is the developer and creator of LunaVPN, a product of RePass Cloud Pty Ltd. Learn more about Danijel here or follow him on Twitter to keep up with him.
 social:
   - name: github
     icon: fa-brands fa-github

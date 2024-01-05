@@ -20,7 +20,7 @@ find . -type f -exec sed -i "s|$search_string|$replace_string|g" {} +
 echo "Text replacement complete."
 
 # Generate sitemap.xml
-python3 gen-sitemap.py
+#python3 gen-sitemap.py
 
 # Replace docs
 rm -rf ./docs

@@ -2,7 +2,7 @@
 title: "WireGuard the GOAT"
 meta_title: "The Ultimate VPN Protocol Comparison: WireGuard Leads the Way"
 description: "Discover why WireGuard stands out as the superior choice in the VPN protocol showdown against IKEv2, IPsec, and L2TP."
-date: 2024-01-02T01:33:00Z
+date: 2024-01-02T11:11:00Z
 image: "/images/blog_posts/wireguard-the-goat.png"
 categories: ["Technology", "Security"]
 author: "Danijel Wynyard"
