@@ -6,7 +6,12 @@ description: "Sign up for LunaVPN using 🇬🇧 British Pounds (GBP) as your pr
 draft: false
 ---
 
-<div class="text-center">{{< button label="US Dollar (USD $)" link="/usd" style="solid" >}} &nbsp; {{< button label="Euro (EUR €)" link="/eur" style="solid" >}}</div>
+<!-- <div class="text-center">{{< button label="US Dollar (USD $)" link="/usd" style="solid" >}} &nbsp; {{< button label="Euro (EUR €)" link="/eur" style="solid" >}}</div> -->
+<div class="text-center">
+    {{< button label="USD $" link="/usd" style="solid" >}} &nbsp;
+    {{< button label="EUR €" link="/eur" style="solid" >}} &nbsp;
+    {{< button label="AUD $" link="/aud" style="solid" >}}
+</div>
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
 <stripe-pricing-table pricing-table-id="prctbl_1OUK2iKcwfnufCukmRibn2Md"

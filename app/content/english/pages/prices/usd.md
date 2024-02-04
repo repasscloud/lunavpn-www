@@ -6,7 +6,12 @@ description: "Sign up for LunaVPN using 🇺🇸 US Dollars (USD) as your prefer
 draft: false
 ---
 
-<div class="text-center">{{< button label="Euro (EUR €)" link="/eur" style="solid" >}} &nbsp; {{< button label="British Pound (GBP £)" link="/gbp" style="solid" >}}</div>
+<!-- <div class="text-center">{{< button label="Euro (EUR €)" link="/eur" style="solid" >}} &nbsp; {{< button label="British Pound (GBP £)" link="/gbp" style="solid" >}}</div> -->
+<div class="text-center">
+    {{< button label="GBP £" link="/gbp" style="solid" >}} &nbsp;
+    {{< button label="EUR €" link="/eur" style="solid" >}} &nbsp;
+    {{< button label="AUD $" link="/aud" style="solid" >}}
+</div>
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
 <stripe-pricing-table pricing-table-id="prctbl_1OUK8SKcwfnufCukF6Z7M5Yw"

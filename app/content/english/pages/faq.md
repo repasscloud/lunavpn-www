@@ -176,7 +176,7 @@ To access your LunaVPN account, follow these steps:
 
 4. Click the "Sign In" button to access your account.
 
-If you don't have a LunaVPN account yet, you can [sign up here](/sign-up/ "LunaVPN Signup Page") to get started. We support three major currencies: [USD &#36;](/usd/ "USD Payment page") 🇺🇸, [EUR &#8364;](/eur/ "EUR Payment page") 🇪🇺, and [GBP &#163;](/gbp/ "GBP Payment page") 🇬🇧.
+If you don't have a LunaVPN account yet, you can [sign up here](/sign-up/ "LunaVPN Signup Page") to get started. We support four major currencies: [USD &#36;](/usd/ "USD Payment page") 🇺🇸, [EUR &#8364;](/eur/ "EUR Payment page") 🇪🇺, [GBP &#163;](/gbp/ "GBP Payment page") 🇬🇧 and [AUD &#36;](/aud/ "AUD Payment page") 🇦🇺.
 
 ### How to Install LunaVPN with WireGuard
 

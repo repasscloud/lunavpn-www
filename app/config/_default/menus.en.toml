@@ -67,6 +67,12 @@ name = "🇬🇧 GBP £"
 url = "/gbp/"
 weight = 3
 
+[[main]]
+parent = "Subscribe"
+name = "🇦🇺 AUD $"
+url = "/aud/"
+weight = 4
+
 
 #[[main]]
 #parent = "Legal"

@@ -1,0 +1,15 @@
+# Use the myhugo base image
+FROM myhugo
+
+# Install required packages non-interactively
+RUN apt-get update \
+    && DEBIAN_FRONTEND=noninteractive \
+    && apt-get -y upgrade \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Update npm to the latest version
+RUN npm install -g npm
+
+# Reset DEBIAN_FRONTEND environment variable
+ENV DEBIAN_FRONTEND=
